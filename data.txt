@@ -83,7 +83,6 @@
 				"http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225544/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225544/index.m3u8",
 				
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=41&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				
 				"http://v.91kds.com/b9/shyd.m3u8?id=cctv6hd&"
 			]
