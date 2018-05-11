@@ -804,6 +804,12 @@
 			]
 		},
 		{
+			"name": "星辰Papi",
+			"source": [
+				"http://47.95.172.168/channel/2278.m3u8"
+			]
+		},
+		{
 			"name": "星辰综艺1",
 			"source": [
 				"http://47.95.172.168/channel/2270.m3u8"
@@ -812,30 +818,17 @@
 		{
 			"name": "星辰综艺2",
 			"source": [
-				"http://47.95.172.168/channel/2278.m3u8"
+				"http://47.95.172.168/channel/2289.m3u8"
 			]
 		},
 		{
 			"name": "星辰综艺3",
 			"source": [
-				"http://47.95.172.168/channel/2289.m3u8"
+				"http://47.95.172.168/channel/2321.m3u8"
 			]
 		},
 		{
 			"name": "星辰综艺4",
-			"source": [
-				"http://47.95.172.168/channel/2321.m3u8"
-			]
-		},
-
-		{
-			"name": "星辰综艺5",
-			"source": [
-				"http://47.95.172.168/channel/2713.m3u8"
-			]
-		},
-		{
-			"name": "星辰综艺6",
 			"source": [
 				"http://47.95.172.168/channel/1926.m3u8"
 			]
