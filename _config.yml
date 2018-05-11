@@ -7,7 +7,7 @@
 
 # Site settings
 title: 李信的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: Android and Windows Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://643435675.github.io" # the base hostname & protocol for your site
 
@@ -16,11 +16,11 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  643435675
-email: 643435675@QQ.com
-weibo_username: 3115521wh
-zhihu_username: hll643435675
-linkedIn_username: gaohaoyang
+github_username:  tinyzimu
+email: tinyzimu@163.com
+weibo_username: tinyzimu
+zhihu_username: tinyzimu
+linkedIn_username: tinyzimu
 dribbble_username:
 
 description_footer: 来自李信的个人专栏！
