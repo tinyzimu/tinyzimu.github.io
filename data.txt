@@ -91,7 +91,6 @@
 		{
 			"name": "CCTV-7HD",
 			"source": [
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=42&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000185/live100001.m3u8",
 				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv7hd&",
 
@@ -102,7 +101,6 @@
 		{
 			"name": "CCTV-8HD",
 			"source": [
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=43&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				"http://111.20.33.69/PLTV/88888888/224/3221225543/index.m3u8",
 				"http://zzcs3.ott.henancatv.com/cache06/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C8H/1.m3u8",
 				
@@ -115,7 +113,6 @@
 				"http://111.20.33.70/PLTV/88888888/224/3221225577/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225758/index.m3u8",
 				
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=78&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000186/live100001.m3u8"
 			]
@@ -125,8 +122,6 @@
 			"source": [
 				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CKH/3.m3u8",
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CKH/1.m3u8",
-				
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=44&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000187/live100001.m3u8",
 				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv10hd&",
@@ -149,7 +144,6 @@
 		{
 			"name": "CCTV-12HD",
 			"source": [
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=46&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000188/live100001.m3u8",
 				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv12hd&",
@@ -238,7 +232,6 @@
 				"http://111.20.33.70/PLTV/88888888/224/3221225799/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225672/index.m3u8",
 				
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=49&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				
 				"http://v.91kds.com/c9/aishang1.m3u8?id=hnwshd&",
 				"http://v.91kds.com/b9/twltv.m3u8?ip=3&id=hnwshd&",
@@ -267,9 +260,7 @@
 
 				"http://111.20.33.69/PLTV/88888888/224/3221225798/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225583/index.m3u8",
-				"http://111.20.33.72/PLTV/88888888/224/3221225598/index.m3u8",
-				
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=52&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
+				"http://111.20.33.72/PLTV/88888888/224/3221225598/index.m3u8",				
 				
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000211/live100001.m3u8",
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/ZJH/1.m3u8",
@@ -286,8 +277,6 @@
 				"http://111.20.33.70/PLTV/88888888/224/3221225797/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225599/index.m3u8",
 				
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=51&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
-				
 				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/DFH/1.m3u8",
 				"http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8",
 				"http://v.91kds.com/b9/gdyx.m3u8?id=dfwshd&",
@@ -302,7 +291,6 @@
 				"http://111.20.33.71/PLTV/88888888/224/3221225670/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225803/index.m3u8",
 				
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=48&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				
 				"http://v.91kds.com/b9/gdyx.m3u8?id=gdwshd&"
 			]
@@ -314,7 +302,6 @@
 				"http://111.20.33.70/PLTV/88888888/224/3221225580/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225662/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225662/index.m3u8",
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=50&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				
 				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/BJH/BJH.m3u8",
 				"http://v.91kds.com/b9/gdyx.m3u8?id=bjwshd&",
@@ -328,7 +315,6 @@
 			"source": [
 				"http://111.20.33.70/PLTV/88888888/224/3221225538/index.m3u8",
 				"http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8",
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=58&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				"http://v.91kds.com/b9/gdyx.m3u8?id=tjwshd&",
 				"http://v.91kds.com/c9/hswo.m3u8?id=tjwshd&"
 			]
@@ -337,7 +323,6 @@
 			"name": "山东卫视HD",
 			"source": [
 				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/SDH/1.m3u8",
-				"http://116.199.5.51:8114/00000000/e8fa9bdbea72439c8d9dd6397e9510d3/index.m3u8?AuthInfo=HMLk%2FCpuPSd4CoSunmJwEocR%2FAZGzvNcoAtQRqqTCt2BJyFlUIyfK7BhAwjR%2B5fywiqZQ4UdVh%2BD%0AAYcBrNdlCdITb8fq7zcurQr3Hw3hapA%3D%0A&version=9&FvSeid=5aef6a44f9624b41&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1061&Fsv_chan_hls_se_idx=57&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=e8fa9bdbea72439c8d9dd6397e9510d3&Fsv_CMSID=00000000&Fsv_otype=1",
 				
 				"http://111.20.33.71/PLTV/88888888/224/3221225661/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225578/index.m3u8",
@@ -385,7 +370,6 @@
 		{
 			"name": "安徽卫视HD",
 			"source": [
-				"http://116.199.5.51:8114/00000000/2f71b3e9878248de87c40a3b65fecb7a/index.m3u8?AuthInfo=ya1bN4J3wrhSNZaQ%2ByJ1qfJs4G6NLe9HAt0%2BCGy9KPhQT%2BGCbZN7fScArKLSkIHxUAGetHoaNJvX%0At3fZj5yokugYJ9eOrhiwdvtGPCj%2Fw%2Bk%3D%0A&version=9&FvSeid=5ae4541d2b9445a2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1060&Fsv_chan_hls_se_idx=56&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=2f71b3e9878248de87c40a3b65fecb7a&Fsv_CMSID=00000000&Fsv_otype=1",
 				"http://111.20.33.71/PLTV/88888888/224/3221225668/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225773/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225668/index.m3u8",
@@ -400,7 +384,6 @@
 		{
 			"name": "辽宁卫视HD",
 			"source": [
-				"http://116.199.5.51:8114/00000000/c6054ff1fede4f1db1cd72461b18e57f/index.m3u8?AuthInfo=2p9yz4QgYThT9%2FmZrE%2Fir9adHxdxB80fNuzGxbOECyaNoJ69Lm3cWcYvnkkHaGsl5HUV8LCy5Aon%0A30TISo5SNw%2BsAk2UoG%2FHCT6EUNfj50k%3D%0A&version=9&FvSeid=5ae45046ff706ed8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1063&Fsv_chan_hls_se_idx=59&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=240&Provider_id=00000000&Pcontent_id=c6054ff1fede4f1db1cd72461b18e57f&Fsv_CMSID=00000000&Fsv_otype=1",
 				
 				"http://111.20.33.71/PLTV/88888888/224/3221225641/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225772/index.m3u8",
@@ -465,7 +448,9 @@
 		{
 			"name": "河南卫视HD",
 			"source": [
-												 "http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HWH/3.m3u8",				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HWH/2.m3u8",				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HWH/1.m3u8",
+				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HWH/3.m3u8",
+				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HWH/2.m3u8",
+				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HWH/1.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225636/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225767/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225574/index.m3u8"
@@ -804,12 +789,6 @@
 			]
 		},
 		{
-			"name": "星辰Papi",
-			"source": [
-				"http://47.95.172.168/channel/2278.m3u8"
-			]
-		},
-		{
 			"name": "星辰综艺1",
 			"source": [
 				"http://47.95.172.168/channel/2270.m3u8"
@@ -818,17 +797,30 @@
 		{
 			"name": "星辰综艺2",
 			"source": [
-				"http://47.95.172.168/channel/2289.m3u8"
+				"http://47.95.172.168/channel/2278.m3u8"
 			]
 		},
 		{
 			"name": "星辰综艺3",
 			"source": [
-				"http://47.95.172.168/channel/2321.m3u8"
+				"http://47.95.172.168/channel/2289.m3u8"
 			]
 		},
 		{
 			"name": "星辰综艺4",
+			"source": [
+				"http://47.95.172.168/channel/2321.m3u8"
+			]
+		},
+
+		{
+			"name": "星辰综艺5",
+			"source": [
+				"http://47.95.172.168/channel/2713.m3u8"
+			]
+		},
+		{
+			"name": "星辰综艺6",
 			"source": [
 				"http://47.95.172.168/channel/1926.m3u8"
 			]
