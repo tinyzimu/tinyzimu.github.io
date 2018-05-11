@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "这是李信进行的第一篇文章"
-categories: SnakeSon
+categories:  李信
 tags:  hexo JavaScript
-author: SnakeSon
+author:  李信
 ---
 
 * content
