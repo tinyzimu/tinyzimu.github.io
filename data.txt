@@ -3,21 +3,17 @@
 			"name": "CCTV-1HD",
 			"source": [
 				"http://116.77.76.2:5003/nn_live.ts?id=CCTV1HDTEST",
-				
+
 				"http://223.110.243.138/PLTV/2510088/224/3221227177/1.m3u8",
 				"http://223.110.243.170/PLTV/2/224/3221226998/index.m3u8",
 				"http://223.110.243.170/PLTV/3/224/3221226316/index.m3u8",
-				
+
 				"http://111.20.33.72/PLTV/88888888/224/3221225579/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225804/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225548/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225660/index.m3u8",
 
-				"http://v.91kds.com/b9/bst1.m3u8?id=cctv1hd&",
-				"http://v.91kds.com/b9/shyd.m3u8?id=cctv1hd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=cctv1hd&",
-				"http://v.91kds.com/b9/fjtv.m3u8?id=cctv1hd&",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv1hd&",
+
 				"http://223.82.250.72/ysten-business/live/cctv-1/1.m3u8"
 
 			]
@@ -27,17 +23,13 @@
 			"source": [
 				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C2H/3.m3u8",
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C2H/1.m3u8",
-				
+
 				"http://223.110.243.136/PLTV/2510088/224/3221227199/1.m3u8",
 				"http://223.110.243.170/PLTV/4/224/3221226993/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225618/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225762/index.m3u8",
 
-				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000184/live100001.m3u8",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=cctv2hd&",
-				"http://v.91kds.com/b9/shyd.m3u8?id=cctv2hd&",
-				"http://v.91kds.com/b9/gehua.m3u8?id=cctv3hd&",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv2hd&"
+				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000184/live100001.m3u8"
 			]
 		},
 		{
@@ -46,12 +38,10 @@
 				"http://223.110.243.136/PLTV/3/224/3221227206/index.m3u8",
 				"http://223.110.243.170/PLTV/3/224/3221225588/index.m3u8",
 				"http://223.110.243.136/PLTV/3/224/3221227206/index.m3u8",
-				
-				"http://111.20.33.69/PLTV/88888888/224/3221225546/index.m3u8",
-				"http://111.20.33.69/PLTV/88888888/224/3221225782/index.m3u8",
 
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv3hd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=cctv3hd&"
+				"http://111.20.33.69/PLTV/88888888/224/3221225546/index.m3u8",
+				"http://111.20.33.69/PLTV/88888888/224/3221225782/index.m3u8"
+
 			]
 		},
 		{
@@ -59,9 +49,9 @@
 			"source": [
 				"http://zzcs3.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/C4H/3.m3u8",
 				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/C4H/3.m3u8",
-				
+
 				"http://223.110.243.138/PLTV/2510088/224/3221227162/1.m3u8",
-				
+
 				"http://111.20.33.70/PLTV/88888888/224/3221225510/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225619/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225781/index.m3u8",
@@ -75,7 +65,6 @@
 			"source": [
 				"http://111.20.33.71/PLTV/88888888/224/3221225545/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225780/index.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv5hd&",
 				"http://223.110.243.135/PLTV/3/224/3221226324/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3424",
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C5H/1.m3u8"
 			]
@@ -84,10 +73,8 @@
 			"name": "CCTV-6HD",
 			"source": [
 				"http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225544/index.m3u8",
-				"http://111.20.33.70/PLTV/88888888/224/3221225544/index.m3u8",
-				
-				
-				"http://v.91kds.com/b9/shyd.m3u8?id=cctv6hd&"
+				"http://111.20.33.70/PLTV/88888888/224/3221225544/index.m3u8"
+
 			]
 		},
 		{
@@ -95,8 +82,6 @@
 			"source": [
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000185/live100001.m3u8",
 				"http://223.110.243.136/PLTV/2510088/224/3221227142/1.m3u8",
-				
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv7hd&",
 
 				"http://111.20.33.71/PLTV/88888888/224/3221225659/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225778/index.m3u8"
@@ -106,9 +91,8 @@
 			"name": "CCTV-8HD",
 			"source": [
 				"http://111.20.33.69/PLTV/88888888/224/3221225543/index.m3u8",
-				"http://zzcs3.ott.henancatv.com/cache06/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C8H/1.m3u8",
-				
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv8hd&"
+				"http://zzcs3.ott.henancatv.com/cache06/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C8H/1.m3u8"
+
 			]
 		},
 		{
@@ -116,8 +100,8 @@
 			"source": [
 				"http://111.20.33.70/PLTV/88888888/224/3221225577/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225758/index.m3u8",
-				
-				
+
+
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000186/live100001.m3u8"
 			]
 		},
@@ -126,12 +110,10 @@
 			"source": [
 				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CKH/3.m3u8",
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CKH/1.m3u8",
-				
+
 				"http://223.110.243.136/PLTV/2510088/224/3221227142/1.m3u8",
-				
+
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000187/live100001.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv10hd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=cctv10hd&",
 
 				"http://111.20.33.70/PLTV/88888888/224/3221225658/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225777/index.m3u8"
@@ -142,7 +124,7 @@
 			"source": [
 				"http://111.20.33.69/PLTV/88888888/224/3221225657/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225776/index.m3u8"
-				
+
 
 
 			]
@@ -150,13 +132,10 @@
 		{
 			"name": "CCTV-12HD",
 			"source": [
-				
+
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000188/live100001.m3u8",
-				
+
 				"http://223.110.243.140/PLTV/2510088/224/3221227171/1.m3u8",
-				
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv12hd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=cctv12hd&",
 
 				"http://111.20.33.71/PLTV/88888888/224/3221225656/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225775/index.m3u8",
@@ -179,11 +158,9 @@
 			"source": [
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000189/live100001.m3u8",
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CSH/1.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv14hd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=cctv14hd&",
-				
+
 				"http://223.110.243.140/PLTV/2510088/224/3221227247/1.m3u8",
-				
+
 				"http://111.20.33.70/PLTV/88888888/224/3221225655/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225784/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225507/index.m3u8"
@@ -195,9 +172,9 @@
 				"http://111.20.33.69/PLTV/88888888/224/3221225654/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225785/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225502/index.m3u8",
-				
+
 				"http://183.207.249.7/PLTV/3/224/3221225568/index.m3u8",
-				
+
 				"http://223.82.250.72/ysten-business/live/cctv-15/1.m3u8"
 			]
 		},
@@ -208,8 +185,7 @@
 				"http://111.20.33.72/PLTV/88888888/224/3221225534/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225761/index.m3u8",
 
-				"http://zzcs3.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/C5C/1.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cctv5p&"
+				"http://zzcs3.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/C5C/1.m3u8"
 			]
 		},
 		{
@@ -217,9 +193,8 @@
 			"source": [
 				"http://111.20.33.70/PLTV/88888888/224/3221225609/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225549/index.m3u8",
-				"http://111.20.33.72/PLTV/88888888/224/3221225753/index.m3u8",
+				"http://111.20.33.72/PLTV/88888888/224/3221225753/index.m3u8"
 
-				"http://v.91kds.com/c9/aishang1.m3u8?id=cetv1hd&"
 			]
 		},
 		{
@@ -231,8 +206,7 @@
 		{
 			"name": "CHC高清电影",
 			"source": [
-				"http://ivi.bupt.edu.cn/hls/chchd.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=chchd&"
+				"http://ivi.bupt.edu.cn/hls/chchd.m3u8"
 			]
 		}
 
@@ -245,30 +219,23 @@
 				"http://111.20.33.71/PLTV/88888888/224/3221225672/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225582/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225672/index.m3u8",
-				
-				
-				"http://v.91kds.com/c9/aishang1.m3u8?id=hnwshd&",
-				"http://v.91kds.com/b9/twltv.m3u8?ip=3&id=hnwshd&",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=hnwshd&",
+
+
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HNH/1.m3u8"
 			]
 		},
 		{
 			"name": "江苏卫视HD",
 			"source": [
-				
+
 				"http://111.20.33.69/PLTV/88888888/224/3221225663/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225542/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225663/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225800/index.m3u8",
 				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_74_/cdn_proxy/os_ott_henancatv_com/live/JSH/1.m3u8",
 
-				"http://223.110.243.160/PLTV/3/224/3221227255/index.m3u8",
+				"http://223.110.243.160/PLTV/3/224/3221227255/index.m3u8"
 
-				"http://v.91kds.com/b9/shyd.m3u8?id=jswshd&",
-				"http://v.91kds.com/b9/bst1.m3u8?id=jswshd&",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=jswshd&",
-				"http://v.91kds.com/c9/hswo.m3u8?id=jswshd&"
 			]
 		},
 		{
@@ -277,41 +244,37 @@
 
 				"http://111.20.33.69/PLTV/88888888/224/3221225798/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225583/index.m3u8",
-				"http://111.20.33.72/PLTV/88888888/224/3221225598/index.m3u8",				
-				
+				"http://111.20.33.72/PLTV/88888888/224/3221225598/index.m3u8",
+
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000211/live100001.m3u8",
-				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/ZJH/1.m3u8",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=zjwshd&",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=zjwshd&",
-				"http://v.91kds.com/b9/twltv.m3u8?id=zjwshd&"
+				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/ZJH/1.m3u8"
 			]
 		},
 		{
 			"name": "东方卫视HD",
 			"source": [
 				"http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8",
-				
+
 				"http://111.20.33.72/PLTV/88888888/224/3221225581/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225797/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225599/index.m3u8",
-				
-				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/DFH/1.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=dfwshd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=dfwshd&"
+
+				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/DFH/1.m3u8"
+
 			]
 		},
 		{
 			"name": "广东卫视HD",
 			"source": [
 				"http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8",
-				
+
 				"http://111.20.33.71/PLTV/88888888/224/3221225539/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225670/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225670/index.m3u8",
-				"http://111.20.33.70/PLTV/88888888/224/3221225803/index.m3u8",
-				
-				
-				"http://v.91kds.com/b9/gdyx.m3u8?id=gdwshd&"
+				"http://111.20.33.70/PLTV/88888888/224/3221225803/index.m3u8"
+
+
+
 			]
 		},
 		{
@@ -321,11 +284,8 @@
 				"http://111.20.33.70/PLTV/88888888/224/3221225580/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225662/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225662/index.m3u8",
-				
-				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/BJH/BJH.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=bjwshd&",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=bjwshd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=bjwshd&"
+
+				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/BJH/BJH.m3u8"
 			]
 		},
 
@@ -333,24 +293,19 @@
 			"name": "天津卫视HD",
 			"source": [
 				"http://111.20.33.70/PLTV/88888888/224/3221225538/index.m3u8",
-				"http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8",
-				
-				"http://v.91kds.com/b9/gdyx.m3u8?id=tjwshd&",
-				"http://v.91kds.com/c9/hswo.m3u8?id=tjwshd&"
+				"http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8"
+
 			]
 		},
 		{
 			"name": "山东卫视HD",
 			"source": [
 				"http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8",
-				
+
 				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/SDH/1.m3u8",
-				
+
 				"http://111.20.33.71/PLTV/88888888/224/3221225661/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225578/index.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=sdwshd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=sdwshd&",
-				"http://v.91kds.com/b9/bst1.m3u8?id=sdwshd&",
 				"http://111.20.33.72/PLTV/88888888/224/3221225661/index.m3u8"
 			]
 		},
@@ -359,22 +314,18 @@
 			"source": [
 
 				"http://111.20.33.69/PLTV/88888888/224/3221225669/index.m3u8",
-				"http://111.20.33.71/PLTV/88888888/224/3221225669/index.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=hbwshd&",
-				"http://v.91kds.com/b9/bst1.m3u8?id=hbwshd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=hbwshd&"
+				"http://111.20.33.71/PLTV/88888888/224/3221225669/index.m3u8"
 			]
 		},
 		{
 			"name": "黑龙江卫视HD",
 			"source": [
 				"http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8",
-				
+
 				"http://111.20.33.71/PLTV/88888888/224/3221225575/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225671/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225802/index.m3u8",
 
-				"http://v.91kds.com/b9/gdyx.m3u8?id=hljwshd&",
 				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/HLH/1.m3u8"
 			]
 		},
@@ -382,7 +333,6 @@
 			"name": "河北卫视HD",
 			"source": [
 				"http://weblive.hebtv.com/live/hbws_bq/index.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=hewshd&",
 
 				"http://111.20.33.71/PLTV/88888888/224/3221225632/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225750/index.m3u8",
@@ -397,24 +347,17 @@
 				"http://111.20.33.71/PLTV/88888888/224/3221225668/index.m3u8",
 
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000198/live100001.m3u8",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=ahwshd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=ahwshd&",
-				"http://v.91kds.com/c9/hswo.m3u8?id=ahwshd&",
 				"http://111.20.33.69/PLTV/88888888/224/3221225561/index.m3u8"
 			]
 		},
 		{
 			"name": "辽宁卫视HD",
 			"source": [
-				
+
 				"http://111.20.33.71/PLTV/88888888/224/3221225641/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225772/index.m3u8",
-				"http://111.20.33.70/PLTV/88888888/224/3221225559/index.m3u8",
-				
-				
-				"http://v.91kds.com/b9/gdyx.m3u8?id=lnwshd&",
-				"http://v.91kds.com/c9/aishang1.m3u8?id=lnwshd&",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=lnwshd&"
+				"http://111.20.33.70/PLTV/88888888/224/3221225559/index.m3u8"
+
 			]
 		},
 		{
@@ -431,8 +374,7 @@
 		{
 			"name": "江西卫视HD",
 			"source": [
-				"http://111.20.33.72/PLTV/88888888/224/3221225564/index.m3u8",
-				"http://v.91kds.com/b9/jxtv.m3u8?id=jxwshd&"
+				"http://111.20.33.72/PLTV/88888888/224/3221225564/index.m3u8"
 			]
 		},
 
@@ -442,17 +384,16 @@
 				"http://111.20.33.72/PLTV/88888888/224/3221225640/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225791/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225525/index.m3u8",
-				
-				"http://223.110.243.146/PLTV/3/224/3221225594/index.m3u8",
-				
-				"http://v.91kds.com/b9/gdyx.m3u8?id=cqwshd&"
+
+				"http://223.110.243.146/PLTV/3/224/3221225594/index.m3u8"
+
 			]
 		},
 		{
 			"name": "深圳卫视HD",
 			"source": [
 				"http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8",
-				
+
 				"http://111.20.33.72/PLTV/88888888/224/3221225515/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225664/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225540/index.m3u8",
@@ -469,10 +410,9 @@
 				"http://111.20.33.72/PLTV/88888888/224/3221225667/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225768/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225563/index.m3u8",
-				
-				"http://223.110.243.159/PLTV/3/224/3221225570/index.m3u8",
-				
-				"http://v.91kds.com/b9/gdyx.m3u8?id=scwshd&"
+
+				"http://223.110.243.159/PLTV/3/224/3221225570/index.m3u8"
+
 			]
 		},
 
@@ -570,7 +510,6 @@
 		{
 			"name": "云南卫视",
 			"source": [
-				"http://v.91kds.com/b9/qq.m3u8?id=ynws&fmt=hls&",
 				"http://111.20.33.72/PLTV/88888888/224/3221225751/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225628/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225573/index.m3u8"
@@ -580,7 +519,7 @@
 			"name": "贵州卫视",
 			"source": [
 				"http://223.110.243.152/PLTV/3/224/3221225540/index.m3u8",
-				
+
 				"http://111.20.33.71/PLTV/88888888/224/3221225665/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225793/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225522/index.m3u8"
@@ -591,7 +530,7 @@
 			"name": "新疆卫视",
 			"source": [
 				"http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8",
-				
+
 				"http://111.20.33.71/PLTV/88888888/224/3221225629/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225747/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225536/index.m3u8"
@@ -617,7 +556,7 @@
 			"name": "旅游卫视",
 			"source": [
 				"http://stream1.hnntv.cn/lywsgq/sd/live.m3u8",
-				
+
 				"http://111.20.33.71/PLTV/88888888/224/3221225635/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225769/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225570/index.m3u8"
@@ -681,25 +620,20 @@
 		{
 			"name": "金鹰卡通",
 			"source": [
-				"http://pili-live-hls.mgk.hnxwlb.net/mangolive/MGY_HN_JYKT.m3u8",
-				"http://v.91kds.com/b9/bst1.m3u8?id=hnjykt&",
-				"http://v.91kds.com/b9/hntv.m3u8?id=hnjykt&",
-				"http://v.91kds.com/b9/gdyx.m3u8?id=hnjykt&",
-				"http://v.91kds.com/b9/hncscs.m3u8?id=hnjykt&"
+				"http://pili-live-hls.mgk.hnxwlb.net/mangolive/MGY_HN_JYKT.m3u8"
 
 			]
 		}
 	],
 
-	"特色频道": [
-			{
+	"特色频道": [{
 			"name": "凤凰中文",
 			"source": [
 				"http://223.110.243.155/PLTV/2510088/224/3221227160/1.m3u8",
 				"http://223.110.243.142/PLTV/2510088/224/3221227160/1.m3u8",
 				"http://223.110.243.170/PLTV/3/224/3221226977/index.m3u8",
 				"http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
-				
+
 				"http://223.82.250.72/ysten-bussiness/live/fhchinese/1.m3u8",
 				"http://223.82.250.72/live/fhchinese/1.m3u8"
 			]
@@ -712,10 +646,10 @@
 				"http://223.110.243.155/PLTV/2510088/224/3221227163/1.m3u8",
 				"http://223.110.243.155:80/PLTV/3/224/3221226977/index.m3u8",
 				"http://223.110.243.142/PLTV/2510088/224/3221227163/1.m3u8",
-				
+
 				"http://ax.micaesoft.com/YMitv/YMITV_CN_HKiHKifengtvnewstv_2.m3u8",
 				"http://ax.micaesoft.com/YMitv/YMITV_CN_HKiHKifengtvnewstv_1.m3u8",
-				
+
 				"http://hellotv-iptv.uwp.ac.cn/live/fhzx.m3u8",
 				"http://223.82.250.72/live/fhzixun/1.m3u8",
 				"http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8",
@@ -742,14 +676,6 @@
 		},
 
 		{
-			"name": "爆笑精选",
-			"source": [
-				"http://v.91kds.com/b9/qiyi2.m3u8?id=qiyibxjx&",
-				"http://v.91kds.com/c9/qiyi3.m3u8?id=qiyibxjx&"
-
-			]
-		},
-		{
 			"name": "爱情公寓",
 			"source": [
 				"http://hlstx.plu.cn/onlive/9eb8a09d6c5649af966599a85c8e60f7.m3u8",
@@ -757,54 +683,6 @@
 
 			]
 		},
-		{
-			"name": "大剧重温",
-			"source": [
-				"http://v.91kds.com/b9/qiyi2.m3u8?id=qiyidjcw&",
-				"http://v.91kds.com/c9/qiyi3.m3u8?id=qiyidjcw&"
-
-			]
-		},
-		{
-			"name": "电影大片",
-			"source": [
-				"http://v.91kds.com/b9/qiyi2.m3u8?id=qiyidydp&",
-				"http://v.91kds.com/c9/qiyi3.m3u8?id=qiyidydp&"
-
-			]
-		},
-		{
-			"name": "动作大片",
-			"source": [
-				"http://v.91kds.com/c9/qiyi3.m3u8?id=qiyidzdy&",
-				"http://v.91kds.com/b9/qiyi2.m3u8?id=qiyidzdy&"
-
-			]
-		},
-		{
-			"name": "开心剧场",
-			"source": [
-				"http://v.91kds.com/b9/qiyi2.m3u8?id=qiyikxjc&",
-				"http://v.91kds.com/c9/qiyi3.m3u8?id=qiyikxjc&"
-
-			]
-		},
-		{
-			"name": "喜剧电影",
-			"source": [
-				"http://v.91kds.com/b9/qiyi2.m3u8?id=qiyixjdy&",
-				"http://v.91kds.com/c9/qiyi3.m3u8?id=qiyixjdy&"
-
-			]
-		},
-		{
-			"name": "热播电视剧",
-			"source": [
-				"http://v.91kds.com/c9/qiyi3.m3u8?id=qiyirbdsj&"
-
-			]
-		},
-
 		{
 			"name": "NewTV爱情喜剧",
 			"source": [
