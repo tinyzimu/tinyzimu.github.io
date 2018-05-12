@@ -678,17 +678,11 @@
 		{
 			"name": "爱情公寓",
 			"source": [
-				"http://hlstx.plu.cn/onlive/9eb8a09d6c5649af966599a85c8e60f7.m3u8",
-				"http://hlstx.plu.cn/onlive/68b592cacaac47b9a2dd04a8ee5e7a7a.m3u8"
+				"http://hlstx.plu.cn/onlive/9eb8a09d6c5649af966599a85c8e60f7.m3u8"
 
 			]
 		},
-		{
-			"name": "NewTV爱情喜剧",
-			"source": [
-				"http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8"
-			]
-		},
+
 		{
 			"name": "NewTV家庭剧场",
 			"source": [
@@ -717,24 +711,14 @@
 				"http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8"
 			]
 		},
-		{
-			"name": "NewTV古装剧场",
-			"source": [
-				"http://183.207.249.14/PLTV/3/224/3221225527/index.m3u8"
-			]
-		},
+
 		{
 			"name": "NewTV惊悚悬疑",
 			"source": [
 				"http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8"
 			]
 		},
-		{
-			"name": "NewTV海外剧场",
-			"source": [
-				"http://183.207.249.16/PLTV/3/224/3221225547/index.m3u8"
-			]
-		},
+
 		{
 			"name": "NewTV潮妈辣婆",
 			"source": [
@@ -745,30 +729,6 @@
 			"name": "NewTV精品记录",
 			"source": [
 				"http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV军旅剧场",
-			"source": [
-				"http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV军事评论",
-			"source": [
-				"http://183.207.249.14/PLTV/3/224/3221225533/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV中国功夫",
-			"source": [
-				"http://223.110.245.171/PLTV/3/224/3221226935/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV健康有约",
-			"source": [
-				"http://183.207.249.14/PLTV/3/224/3221225545/index.m3u8"
 			]
 		},
 		{
