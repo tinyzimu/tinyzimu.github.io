@@ -770,6 +770,18 @@
 			]
 		},
 		{
+			"name": "芒果TV",
+			"source": [
+				"http://47.95.172.168/channel/2554.m3u8"
+			]
+		},
+		{
+			"name": "星辰Papi",
+			"source": [
+				"http://47.95.172.168/channel/2278.m3u8"
+			]
+		},
+		{
 			"name": "星辰游戏1",
 			"source": [
 				"http://47.95.172.168/channel/2380.m3u8"
@@ -793,33 +805,21 @@
 				"http://47.95.172.168/channel/2270.m3u8"
 			]
 		},
+
 		{
 			"name": "星辰综艺2",
-			"source": [
-				"http://47.95.172.168/channel/2278.m3u8"
-			]
-		},
-		{
-			"name": "星辰综艺3",
 			"source": [
 				"http://47.95.172.168/channel/2289.m3u8"
 			]
 		},
 		{
-			"name": "星辰综艺4",
+			"name": "星辰综艺3",
 			"source": [
 				"http://47.95.172.168/channel/2321.m3u8"
 			]
 		},
-
 		{
-			"name": "星辰综艺5",
-			"source": [
-				"http://47.95.172.168/channel/2713.m3u8"
-			]
-		},
-		{
-			"name": "星辰综艺6",
+			"name": "星辰综艺4",
 			"source": [
 				"http://47.95.172.168/channel/1926.m3u8"
 			]
@@ -878,12 +878,7 @@
 				"http://47.95.172.168/channel/1227.m3u8"
 			]
 		},
-		{
-			"name": "芒果TV",
-			"source": [
-				"http://47.95.172.168/channel/2554.m3u8"
-			]
-		},
+
 		{
 			"name": "星辰美食1",
 			"source": [
