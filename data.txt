@@ -968,7 +968,78 @@
 	],
 
 	"热门电影": [
-
+		{
+			"name": "青春24秒",
+			"source": [
+				"http://vip.kuyun99.com/ppvod/F5214200F0B9E06FBC8F22D52BB04D91.m3u8"
+			]
+		},
+				{
+			"name": "魔方",
+			"source": [
+				"http://163.com-www-letv.com/20180507/332_3926ad3d/1000k/hls/index.m3u8"
+			]
+		},
+				{
+			"name": "西北风云",
+			"source": [
+				"http://youku.cdn1-letv.com/20180507/10667_ad44cc37/1000k/hls/index.m3u8"
+			]
+		},
+				{
+			"name": "太空救援",
+			"source": [
+				"http://disp.titan.mgtv.com/vod.do?fmt=4&pno=2220&fid=20BF4E5A74ABEC045531F02BBC816E2F&file=/c1/2018/05/07_0/20BF4E5A74ABEC045531F02BBC816E2F_20180507_1_1_657.mp4"
+			]
+		},
+				{
+			"name": "罪途1之死亡列车",
+			"source": [
+				"http://vip.kuyun99.com/ppvod/DE3E1508811272B4DE46931EEDC68ECC.m3u8"
+			]
+		},
+				{
+			"name": "西关大屋",
+			"source": [
+				"http://vip.kuyun99.com/ppvod/FA34D035B61741EAE3577BA47B3E1B0B.m3u8"
+			]
+		},
+				{
+			"name": "透明情人",
+			"source": [
+				"http://youku.cdn-tudou.com/20180512/5877_632580cd/1000k/hls/index.m3u8"
+			]
+		},
+				{
+			"name": "极限拯救",
+			"source": [
+				"http://youku.cdn-tudou.com/20180512/5873_02b3cffb/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "古惑青春",
+			"source": [
+				"http://youku.cdn-tudou.com/20180511/5860_287e8e5c/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "笑澳江湖",
+			"source": [
+				"http://163.com-www-letv.com/20180510/512_5b3c473a/1000k/hls/index.m3u8"
+			]
+		},						
+		{
+			"name": "少女密码",
+			"source": [
+				"http://163.com-www-letv.com/20180509/460_91add3b3/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "金三角大营救",
+			"source": [
+				"http://vip.kuyun99.com/ppvod/39B4CB65602EBB99F14BD9372F7DAFCA.m3u8"
+			]
+		},
 		{
 			"name": "超级战舰",
 			"source": [
