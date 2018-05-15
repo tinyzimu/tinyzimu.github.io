@@ -2,10 +2,9 @@
 	"央视频道": [{
 			"name": "CCTV-1HD",
 			"source": [
-
+				
 				"http://116.77.76.2:5003/nn_live.ts?id=CCTV1HDTEST",
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/?IASHttpSessionId=OTT1746120180512074345007629",
-
+			
 				"http://223.110.243.138/PLTV/2510088/224/3221227177/1.m3u8",
 				"http://223.110.243.170/PLTV/2/224/3221226998/index.m3u8",
 				"http://223.110.243.170/PLTV/3/224/3221226316/index.m3u8",
@@ -26,8 +25,7 @@
 				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C2H/3.m3u8",
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C2H/1.m3u8",
 
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/?IASHttpSessionId=OTT1746120180512074345007629",
-
+				
 				"http://223.110.243.136/PLTV/2510088/224/3221227199/1.m3u8",
 				"http://223.110.243.170/PLTV/4/224/3221226993/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225618/index.m3u8",
@@ -43,8 +41,7 @@
 				"http://223.110.243.170/PLTV/3/224/3221225588/index.m3u8",
 				"http://223.110.243.136/PLTV/3/224/3221227206/index.m3u8",
 
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/?IASHttpSessionId=OTT1746120180512074345007629",
-
+		
 				"http://111.20.33.69/PLTV/88888888/224/3221225546/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225782/index.m3u8"
 
@@ -55,9 +52,8 @@
 			"source": [
 				"http://zzcs3.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/C4H/3.m3u8",
 				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/C4H/3.m3u8",
-
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/?IASHttpSessionId=OTT1746120180512074345007629",
-
+				
+		
 				"http://223.110.243.138/PLTV/2510088/224/3221227162/1.m3u8",
 
 				"http://111.20.33.70/PLTV/88888888/224/3221225510/index.m3u8",
@@ -71,9 +67,7 @@
 		{
 			"name": "CCTV-5HD",
 			"source": [
-
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/?IASHttpSessionId=OTT1746120180512074345007629",
-
+			
 				"http://111.20.33.71/PLTV/88888888/224/3221225545/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225780/index.m3u8",
 				"http://223.110.243.135/PLTV/3/224/3221226324/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3424",
@@ -83,9 +77,7 @@
 		{
 			"name": "CCTV-6HD",
 			"source": [
-
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/?IASHttpSessionId=OTT1746120180512074345007629",
-
+			
 				"http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225544/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225544/index.m3u8"
 
@@ -96,9 +88,7 @@
 			"source": [
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000185/live100001.m3u8",
 				"http://223.110.243.136/PLTV/2510088/224/3221227142/1.m3u8",
-
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/?IASHttpSessionId=OTT1746120180512074345007629",
-
+				
 				"http://111.20.33.71/PLTV/88888888/224/3221225659/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225778/index.m3u8"
 			]
@@ -106,8 +96,7 @@
 		{
 			"name": "CCTV-8HD",
 			"source": [
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/?IASHttpSessionId=OTT1746120180512074345007629",
-
+			
 				"http://111.20.33.69/PLTV/88888888/224/3221225543/index.m3u8",
 				"http://zzcs3.ott.henancatv.com/cache06/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C8H/1.m3u8"
 
@@ -118,9 +107,7 @@
 			"source": [
 				"http://111.20.33.70/PLTV/88888888/224/3221225577/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225758/index.m3u8",
-
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/?IASHttpSessionId=OTT1746120180512074345007629",
-
+				
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000186/live100001.m3u8"
 			]
 		},
@@ -129,9 +116,7 @@
 			"source": [
 				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CKH/3.m3u8",
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CKH/1.m3u8",
-
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/?IASHttpSessionId=OTT1746120180512074345007629",
-
+				
 				"http://223.110.243.136/PLTV/2510088/224/3221227142/1.m3u8",
 
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000187/live100001.m3u8",
@@ -144,9 +129,8 @@
 			"name": "CCTV-11",
 			"source": [
 				"http://111.20.33.69/PLTV/88888888/224/3221225657/index.m3u8",
-				"http://111.20.33.71/PLTV/88888888/224/3221225776/index.m3u8",
-
-				"http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/?IASHttpSessionId=OTT1746120180512074345007629"
+				"http://111.20.33.71/PLTV/88888888/224/3221225776/index.m3u8"
+				
 
 
 			]
@@ -156,8 +140,7 @@
 			"source": [
 
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000188/live100001.m3u8",
-				"http://223.110.241.204:6610/gitv/live1/CCTV-12/CCTV-12/?IASHttpSessionId=OTT1746120180512074345007629",
-
+		
 				"http://223.110.243.140/PLTV/2510088/224/3221227171/1.m3u8",
 
 				"http://111.20.33.71/PLTV/88888888/224/3221225656/index.m3u8",
@@ -276,7 +259,7 @@
 		{
 			"name": "东方卫视HD",
 			"source": [
-
+				
 				"http://111.20.33.72/PLTV/88888888/224/3221225581/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225797/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225599/index.m3u8",
@@ -288,7 +271,7 @@
 		{
 			"name": "广东卫视HD",
 			"source": [
-
+				
 				"http://111.20.33.71/PLTV/88888888/224/3221225539/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225670/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225670/index.m3u8",
@@ -321,7 +304,7 @@
 		{
 			"name": "山东卫视HD",
 			"source": [
-
+			
 				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/SDH/1.m3u8",
 
 				"http://111.20.33.71/PLTV/88888888/224/3221225661/index.m3u8",
@@ -340,7 +323,7 @@
 		{
 			"name": "黑龙江卫视HD",
 			"source": [
-
+				
 				"http://111.20.33.71/PLTV/88888888/224/3221225575/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225671/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225802/index.m3u8",
@@ -411,7 +394,7 @@
 		{
 			"name": "深圳卫视HD",
 			"source": [
-
+				
 				"http://111.20.33.72/PLTV/88888888/224/3221225515/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225664/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225540/index.m3u8",
@@ -985,49 +968,50 @@
 
 	],
 
-	"热门电影": [{
+	"热门电影": [
+		{
 			"name": "青春24秒",
 			"source": [
 				"http://vip.kuyun99.com/ppvod/F5214200F0B9E06FBC8F22D52BB04D91.m3u8"
 			]
 		},
-		{
+				{
 			"name": "魔方",
 			"source": [
 				"http://163.com-www-letv.com/20180507/332_3926ad3d/1000k/hls/index.m3u8"
 			]
 		},
-		{
+				{
 			"name": "西北风云",
 			"source": [
 				"http://youku.cdn1-letv.com/20180507/10667_ad44cc37/1000k/hls/index.m3u8"
 			]
 		},
-		{
+				{
 			"name": "太空救援",
 			"source": [
 				"http://disp.titan.mgtv.com/vod.do?fmt=4&pno=2220&fid=20BF4E5A74ABEC045531F02BBC816E2F&file=/c1/2018/05/07_0/20BF4E5A74ABEC045531F02BBC816E2F_20180507_1_1_657.mp4"
 			]
 		},
-		{
+				{
 			"name": "罪途1之死亡列车",
 			"source": [
 				"http://vip.kuyun99.com/ppvod/DE3E1508811272B4DE46931EEDC68ECC.m3u8"
 			]
 		},
-		{
+				{
 			"name": "西关大屋",
 			"source": [
 				"http://vip.kuyun99.com/ppvod/FA34D035B61741EAE3577BA47B3E1B0B.m3u8"
 			]
 		},
-		{
+				{
 			"name": "透明情人",
 			"source": [
 				"http://youku.cdn-tudou.com/20180512/5877_632580cd/1000k/hls/index.m3u8"
 			]
 		},
-		{
+				{
 			"name": "极限拯救",
 			"source": [
 				"http://youku.cdn-tudou.com/20180512/5873_02b3cffb/1000k/hls/index.m3u8"
@@ -1044,7 +1028,7 @@
 			"source": [
 				"http://163.com-www-letv.com/20180510/512_5b3c473a/1000k/hls/index.m3u8"
 			]
-		},
+		},						
 		{
 			"name": "少女密码",
 			"source": [
