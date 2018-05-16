@@ -28,6 +28,9 @@
 
 				"http://223.110.243.136/PLTV/2510088/224/3221227199/1.m3u8",
 				"http://223.110.243.170/PLTV/4/224/3221226993/index.m3u8",
+				
+				"http://116.66.222.46:8082/TV4013.m3u8",
+				
 				"http://111.20.33.70/PLTV/88888888/224/3221225618/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225762/index.m3u8",
 
@@ -54,7 +57,8 @@
 			"source": [
 
 				"http://223.110.243.138/PLTV/2510088/224/3221227162/1.m3u8",
-
+				"http://116.66.222.46:8082/TV5001.m3u8",
+				
 				"http://111.20.33.70/PLTV/88888888/224/3221225510/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225619/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225781/index.m3u8",
@@ -155,7 +159,8 @@
 				"http://111.20.33.71/PLTV/88888888/224/3221225617/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225774/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225508/index.m3u8",
-				"http://223.110.243.150/PLTV/3/224/3221225560/index.m3u8"
+				"http://223.110.243.150/PLTV/3/224/3221225560/index.m3u8",
+				"http://116.66.222.46:8082/TV4020.m3u8"
 
 			]
 		},
@@ -165,7 +170,8 @@
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000189/live100001.m3u8",
 
 				"http://223.110.243.140/PLTV/2510088/224/3221227247/1.m3u8",
-
+				"http://116.66.222.46:8082/TV4009.m3u8",
+				
 				"http://111.20.33.70/PLTV/88888888/224/3221225655/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225784/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225507/index.m3u8"
@@ -179,7 +185,9 @@
 				"http://111.20.33.71/PLTV/88888888/224/3221225502/index.m3u8",
 
 				"http://183.207.249.7/PLTV/3/224/3221225568/index.m3u8",
-
+				
+				"http://116.66.222.46:8082/TV4012.m3u8",
+				
 				"http://223.82.250.72/ysten-business/live/cctv-15/1.m3u8"
 			]
 		},
@@ -205,6 +213,36 @@
 			"name": "CETV-2",
 			"source": [
 				"http://111.20.33.71/PLTV/88888888/224/3221225756/index.m3u8"
+			]
+		},
+		{
+			"name": "ICNTV宫廷剧场",
+			"source": [
+				"http://116.66.222.46:8082/TV4002.m3u8"
+			]
+		},
+		{
+			"name": "ICNTV王牌综艺",
+			"source": [
+				"http://116.66.222.46:8082/TV4005.m3u8"
+			]
+		},
+		{
+			"name": "ICNTV精品大剧",
+			"source": [
+				"http://116.66.222.46:8082/TV4007.m3u8"
+			]
+		},
+		{
+			"name": "中国INTV",
+			"source": [
+				"http://116.66.222.46:8082/TV4018.m3u8"
+			]
+		},
+		{
+			"name": "中国戏曲",
+			"source": [
+				"http://116.66.222.46:8082/TV4019.m3u8"
 			]
 		},
 		{
@@ -283,7 +321,8 @@
 
 				"http://111.20.33.70/PLTV/88888888/224/3221225580/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225662/index.m3u8",
-				"http://111.20.33.72/PLTV/88888888/224/3221225662/index.m3u8"
+				"http://111.20.33.72/PLTV/88888888/224/3221225662/index.m3u8",
+				"http://116.66.222.46:8082/TV2003.m3u8"
 			]
 		},
 
@@ -594,6 +633,60 @@
 			]
 		},
 		{
+			"name": "德阳公共",
+			"source": [
+				"http://scdytv.com:1935/live/ggpd_livevideo/chunklist_w1053540574.m3u8"
+			]
+		},
+		{
+			"name": "苏州新闻",
+			"source": [
+				"http://livetv.2500city.com/live/sbs1hd/index.m3u8"
+			]
+		},
+		{
+			"name": "苏州经济",
+			"source": [
+				"http://livetv.2500city.com/live/sbs2hd/index.m3u8"
+			]
+		},
+		{
+			"name": "苏州文化",
+			"source": [
+				"http://livetv.2500city.com/live/sbs3hd/index.m3u8"
+			]
+		},
+		{
+			"name": "湖南都市",
+			"source": [
+				"http://pili-live-hls.mgk.hnxwlb.net/mangolive/MGY_HN_DS.m3u8"
+			]
+		},
+		{
+			"name": "湖南电视剧",
+			"source": [
+				"http://pili-live-hls.mgk.hnxwlb.net/mangolive/MGY_HN_JS.m3u8"
+			]
+		},
+		{
+			"name": "金鹰卡通",
+			"source": [
+				"http://pili-live-hls.mgk.hnxwlb.net/mangolive/MGY_HN_JYKT.m3u8"
+			]
+		},
+		{
+			"name": "湖南娱乐",
+			"source": [
+				"http://pili-live-hls.mgk.hnxwlb.net/mangolive/MGY_HN_YL.m3u8"
+			]
+		},
+		{
+			"name": "湖南国际",
+			"source": [
+				"http://pili-live-hls.mgk.hnxwlb.net/mangolive/MGY_HN_GJ.m3u8"
+			]
+		},
+		{
 			"name": "珠海-1",
 			"source": [
 				"http://hlslive.n21.cc/uHiS6o7/1500/live.m3u8"
@@ -612,9 +705,58 @@
 			]
 		},
 		{
-			"name": "金鹰卡通",
+			"name": "温州综合",
 			"source": [
-				"http://pili-live-hls.mgk.hnxwlb.net/mangolive/MGY_HN_JYKT.m3u8"
+				"http://livetv.dhtv.cn/live/news550.m3u8"
+
+			]
+		},
+		{
+			"name": "石景山新闻",
+			"source": [
+				"http://live.sjsgdzx.com/channel5/sd/live.m3u8"
+
+			]
+		},
+		{
+			"name": "漳浦HD",
+			"source": [
+				"http://220.161.87.62:8800/hls/0/index.m3u8"
+
+			]
+		},
+		{
+			"name": "长阳综合",
+			"source": [
+				"http://changyang.live.cjyun.org/video/s10114-cy1t/index.m3u8"
+
+			]
+		},
+		{
+			"name": "侨乡HD",
+			"source": [
+				"http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8"
+
+			]
+		},
+		{
+			"name": "瑞安新闻",
+			"source": [
+				"http://live.mudu.tv/watch/4xu94b.m3u8"
+
+			]
+		},
+		{
+			"name": "吴江新闻",
+			"source": [
+				"http://zb.wyol.com.cn/hls-live/livepkgr/_definst_/wslhevent/hls_pindao_1_500.m3u8"
+
+			]
+		},
+		{
+			"name": "南安新闻",
+			"source": [
+				"http://natv.cnjrna.com:8888/live/nanan.m3u8"
 
 			]
 		}
