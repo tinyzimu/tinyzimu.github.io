@@ -558,7 +558,11 @@
 				"http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8",
 				"http://live.ybtvyun.com/video/s10016-cys-sd/index.m3u8"
 			]
-		},
+		}
+		
+	],
+
+	"本地频道":[
 		{
 			"name": "东方新闻",
 			"source": [
@@ -614,8 +618,8 @@
 
 			]
 		}
+	
 	],
-
 	"轮播频道": [{
 			"name": "NewTV爱情喜剧",
 			"source": [
@@ -1395,243 +1399,7 @@
 			"source": [
 				"http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8"
 			]
-		},
-		{
-			"name": "欢笑剧场",
-			"source": [
-				"http://111.20.33.70/PLTV/88888888/224/3221225649/index.m3u8"
-			]
-		},
-		{
-			"name": "贺岁电影",
-			"source": [
-				"http://47.95.172.168/channel/2558.m3u8"
-			]
-		},
-		{
-			"name": "爆笑喜剧",
-			"source": [
-				"http://47.95.172.168/channel/2421.m3u8"
-			]
-		},
-		{
-			"name": "奇幻电影",
-			"source": [
-				"http://47.95.172.168/channel/2284.m3u8"
-			]
-		},
-		{
-			"name": "卡通频道",
-			"source": [
-				"http://www.iptv.wang/TV/L2TV.php?id=32"
-			]
-		},
-		{
-			"name": "芒果TV1",
-			"source": [
-				"http://47.95.172.168/channel/2554.m3u8"
-			]
-		},
-		{
-			"name": "芒果TV2",
-			"source": [
-				"http://47.95.172.168/channel/1190.m3u8"
-			]
-		},
-		{
-			"name": "星辰Papi",
-			"source": [
-				"http://47.95.172.168/channel/2278.m3u8"
-			]
-		},
-		{
-			"name": "星辰游戏1",
-			"source": [
-				"http://47.95.172.168/channel/2380.m3u8"
-			]
-		},
-		{
-			"name": "星辰游戏2",
-			"source": [
-				"http://47.95.172.168/channel/1106.m3u8"
-			]
-		},
-		{
-			"name": "星辰游戏3",
-			"source": [
-				"http://47.95.172.168/channel/1869.m3u8"
-			]
-		},
-		{
-			"name": "星辰综艺1",
-			"source": [
-				"http://47.95.172.168/channel/2270.m3u8"
-			]
-		},
-
-		{
-			"name": "星辰综艺2",
-			"source": [
-				"http://47.95.172.168/channel/2289.m3u8"
-			]
-		},
-		{
-			"name": "星辰综艺3",
-			"source": [
-				"http://47.95.172.168/channel/2321.m3u8"
-			]
-		},
-		{
-			"name": "星辰综艺4",
-			"source": [
-				"http://47.95.172.168/channel/1926.m3u8"
-			]
-		},
-		{
-			"name": "星辰综艺5",
-			"source": [
-				"http://47.95.172.168/channel/1804.m3u8"
-			]
-		},
-		{
-			"name": "星辰综艺6",
-			"source": [
-				"http://47.95.172.168/channel/2345.m3u8"
-			]
-		},
-		{
-			"name": "星辰音乐1",
-			"source": [
-				"http://47.95.172.168/channel/2520.m3u8"
-			]
-		},
-		{
-			"name": "星辰音乐2",
-			"source": [
-				"http://47.95.172.168/channel/2664.m3u8"
-			]
-		},
-		{
-			"name": "星辰音乐3",
-			"source": [
-				"http://47.95.172.168/channel/2691.m3u8"
-			]
-		},
-		{
-			"name": "星辰音乐4",
-			"source": [
-				"http://47.95.172.168/channel/1843.m3u8"
-			]
-		},
-		{
-			"name": "星辰音乐5",
-			"source": [
-				"http://47.95.172.168/channel/1654.m3u8"
-			]
-		},
-		{
-			"name": "星辰舞蹈",
-			"source": [
-				"http://47.95.172.168/channel/1576.m3u8"
-			]
-		},
-		{
-			"name": "星辰电影1",
-			"source": [
-				"http://47.95.172.168/channel/2821.m3u8"
-			]
-		},
-		{
-			"name": "星辰电影2",
-			"source": [
-				"http://47.95.172.168/channel/1202.m3u8"
-			]
-		},
-		{
-			"name": "星辰电影3",
-			"source": [
-				"http://47.95.172.168/channel/1259.m3u8"
-			]
-		},
-		{
-			"name": "星辰电影4",
-			"source": [
-				"http://47.95.172.168/channel/2399.m3u8"
-			]
-		},
-		{
-			"name": "星辰电影5",
-			"source": [
-				"http://47.95.172.168/channel/2259.m3u8"
-			]
-		},
-		{
-			"name": "星辰汽车",
-			"source": [
-				"http://47.95.172.168/channel/1227.m3u8"
-			]
-		},
-		{
-			"name": "星辰萌美",
-			"source": [
-				"http://47.95.172.168/channel/1230.m3u8"
-			]
-		},
-		{
-			"name": "星辰美食1",
-			"source": [
-				"http://47.95.172.168/channel/2642.m3u8"
-			]
-		},
-		{
-			"name": "星辰美食2",
-			"source": [
-				"http://47.95.172.168/channel/2646.m3u8"
-			]
-		},
-		{
-			"name": "星辰美食3",
-			"source": [
-				"http://47.95.172.168/channel/1426.m3u8"
-			]
-		},
-		{
-			"name": "星辰美食4",
-			"source": [
-				"http://47.95.172.168/channel/1428.m3u8"
-			]
-		},
-		{
-			"name": "星辰简笔画",
-			"source": [
-				"http://47.95.172.168/channel/2318.m3u8"
-			]
-		},
-		{
-			"name": "星辰动漫1",
-			"source": [
-				"http://47.95.172.168/channel/1526.m3u8"
-			]
-		},
-		{
-			"name": "星辰动漫2",
-			"source": [
-				"http://47.95.172.168/channel/1880.m3u8"
-			]
-		},
-		{
-			"name": "星辰动漫3",
-			"source": [
-				"http://47.95.172.168/channel/2683.m3u8"
-			]
-		},
-		{
-			"name": "星辰动漫4",
-			"source": [
-				"http://47.95.172.168/channel/1243.m3u8"
-			]
 		}
-
 	],
 	"热门电影": [{
 			"name": "青春24秒",
