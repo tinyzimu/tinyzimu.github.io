@@ -22,10 +22,7 @@
 		{
 			"name": "CCTV-2HD",
 			"source": [
-				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C2H/3.m3u8",
-				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C2H/1.m3u8",
-
-				
+								
 				"http://223.110.243.136/PLTV/2510088/224/3221227199/1.m3u8",
 				"http://223.110.243.170/PLTV/4/224/3221226993/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225618/index.m3u8",
@@ -49,10 +46,7 @@
 		},
 		{
 			"name": "CCTV-4HD",
-			"source": [
-				"http://zzcs3.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/C4H/3.m3u8",
-				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/C4H/3.m3u8",
-				
+			"source": [						
 		
 				"http://223.110.243.138/PLTV/2510088/224/3221227162/1.m3u8",
 
@@ -113,11 +107,8 @@
 		},
 		{
 			"name": "CCTV-10HD",
-			"source": [
-				"http://zzcs1.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CKH/3.m3u8",
-				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CKH/1.m3u8",
-				
-				"http://223.110.243.136/PLTV/2510088/224/3221227142/1.m3u8",
+			"source": [			
+
 
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000187/live100001.m3u8",
 
@@ -163,8 +154,7 @@
 			"name": "CCTV-14HD",
 			"source": [
 				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000189/live100001.m3u8",
-				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/CSH/1.m3u8",
-
+				
 				"http://223.110.243.140/PLTV/2510088/224/3221227247/1.m3u8",
 
 				"http://111.20.33.70/PLTV/88888888/224/3221225655/index.m3u8",
@@ -189,10 +179,9 @@
 			"source": [
 
 				"http://111.20.33.72/PLTV/88888888/224/3221225534/index.m3u8",
-				"http://111.20.33.69/PLTV/88888888/224/3221225761/index.m3u8",
+				"http://111.20.33.69/PLTV/88888888/224/3221225761/index.m3u8"
 
-				"http://zzcs3.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/C5C/1.m3u8"
-			]
+							]
 		},
 		{
 			"name": "CETV-1",
@@ -224,10 +213,7 @@
 				"http://111.20.33.70/PLTV/88888888/224/3221225799/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225672/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225582/index.m3u8",
-				"http://111.20.33.69/PLTV/88888888/224/3221225672/index.m3u8",
-
-
-				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HNH/1.m3u8"
+				"http://111.20.33.69/PLTV/88888888/224/3221225672/index.m3u8"
 			]
 		},
 		{
@@ -238,7 +224,7 @@
 				"http://111.20.33.69/PLTV/88888888/224/3221225542/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225663/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225800/index.m3u8",
-				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_74_/cdn_proxy/os_ott_henancatv_com/live/JSH/1.m3u8",
+				
 
 				"http://223.110.243.160/PLTV/3/224/3221227255/index.m3u8"
 
@@ -252,8 +238,7 @@
 				"http://111.20.33.71/PLTV/88888888/224/3221225583/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225598/index.m3u8",
 
-				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000211/live100001.m3u8",
-				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/ZJH/1.m3u8"
+				"http://61.166.153.32:1180/play/playback/90000001000000050000000000000211/live100001.m3u8"
 			]
 		},
 		{
@@ -262,9 +247,7 @@
 				
 				"http://111.20.33.72/PLTV/88888888/224/3221225581/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225797/index.m3u8",
-				"http://111.20.33.70/PLTV/88888888/224/3221225599/index.m3u8",
-
-				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/DFH/1.m3u8"
+				"http://111.20.33.70/PLTV/88888888/224/3221225599/index.m3u8"
 
 			]
 		},
@@ -287,9 +270,7 @@
 
 				"http://111.20.33.70/PLTV/88888888/224/3221225580/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225662/index.m3u8",
-				"http://111.20.33.72/PLTV/88888888/224/3221225662/index.m3u8",
-
-				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/BJH/BJH.m3u8"
+				"http://111.20.33.72/PLTV/88888888/224/3221225662/index.m3u8"
 			]
 		},
 
@@ -305,7 +286,6 @@
 			"name": "山东卫视HD",
 			"source": [
 			
-				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/SDH/1.m3u8",
 
 				"http://111.20.33.71/PLTV/88888888/224/3221225661/index.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225578/index.m3u8",
@@ -326,9 +306,7 @@
 				
 				"http://111.20.33.71/PLTV/88888888/224/3221225575/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225671/index.m3u8",
-				"http://111.20.33.69/PLTV/88888888/224/3221225802/index.m3u8",
-
-				"http://zzcs2.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/HLH/1.m3u8"
+				"http://111.20.33.69/PLTV/88888888/224/3221225802/index.m3u8"
 			]
 		},
 		{
@@ -420,9 +398,7 @@
 		{
 			"name": "河南卫视HD",
 			"source": [
-				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HWH/3.m3u8",
-				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HWH/2.m3u8",
-				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/HWH/1.m3u8",
+				
 				"http://111.20.33.69/PLTV/88888888/224/3221225636/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225767/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225574/index.m3u8"
