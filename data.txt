@@ -890,61 +890,6 @@
 				"http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8",
 				"http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
 			]
-		},
-
-		{
-			"name": "NewTV家庭剧场",
-			"source": [
-				"http://111.20.33.72/PLTV/88888888/224/3221225518/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV金牌综艺",
-			"source": [
-				"http://111.20.33.72/PLTV/88888888/224/3221225504/index.m3u8",
-				"http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV精品电影",
-			"source": [
-				"http://111.20.33.72/PLTV/88888888/224/3221225530/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV精品大剧",
-			"source": [
-				"http://111.20.33.71/PLTV/88888888/224/3221225533/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8"
-			]
-		},
-
-		{
-			"name": "NewTV惊悚悬疑",
-			"source": [
-				"http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8"
-			]
-		},
-
-		{
-			"name": "NewTV潮妈辣婆",
-			"source": [
-				"http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV精品记录",
-			"source": [
-				"http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV动画王国",
-			"source": [
-				"http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8"
-			]
 		}
 	],
 	"热门电影": [{
