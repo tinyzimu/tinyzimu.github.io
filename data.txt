@@ -824,9 +824,15 @@
 		},
 
 		{
-			"name": "Best超级体育",
+			"name": "Best超级体育1",
 			"source": [
 				"http://39.134.52.171/wh7f454c46tw3773685428_-1812949401/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8"
+			]
+		},
+		{
+			"name": "Best超级体育2",
+			"source": [
+				"http://124.47.33.200/PLTV/88888888/224/3221225656/index.m3u8"
 			]
 		},
 
