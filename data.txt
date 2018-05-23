@@ -1008,7 +1008,11 @@
 				"http://223.110.243.142/PLTV/2510088/224/3221227160/1.m3u8",
 				"http://223.110.243.170/PLTV/3/224/3221226977/index.m3u8",
 				"http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
-
+				"http://223.110.245.139/PLTV/3/224/3221226977/index.m3u8",
+				"http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+				"http://223.110.245.139:80/PLTV/3/224/3221226977/index.m3u8",
+				"http://hbzx.chinashadt.com:2036/zhibo/zx2.stream/chunklist_w851016188.m3u8",
+				
 				"http://223.82.250.72/ysten-bussiness/live/fhchinese/1.m3u8",
 				"http://223.82.250.72/live/fhchinese/1.m3u8"
 			]
@@ -1021,10 +1025,11 @@
 				"http://223.110.243.155/PLTV/2510088/224/3221227163/1.m3u8",
 				"http://223.110.243.155:80/PLTV/3/224/3221226977/index.m3u8",
 				"http://223.110.243.142/PLTV/2510088/224/3221227163/1.m3u8",
-
+				"http://59.37.84.35/hls6.kascend.com/chushou_live/jade.m3u8",
+				
 				"http://ax.micaesoft.com/YMitv/YMITV_CN_HKiHKifengtvnewstv_2.m3u8",
 				"http://ax.micaesoft.com/YMitv/YMITV_CN_HKiHKifengtvnewstv_1.m3u8",
-
+				
 				"http://hellotv-iptv.uwp.ac.cn/live/fhzx.m3u8",
 				"http://223.82.250.72/live/fhzixun/1.m3u8",
 				"http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8",
@@ -1050,6 +1055,12 @@
 			]
 		},
 		{
+			"name": "环球卫视",
+			"source": [
+				"http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8"
+			]
+		},
+		{
 			"name": "阳光卫视",
 			"source": [
 				"http://223.110.245.139:80/PLTV/3/224/3221226915/index.m3u8"
@@ -1065,6 +1076,12 @@
 			"name": "奇妙电视",
 			"source": [
 				"http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+			]
+		},
+		{
+			"name": "KBS-MV",
+			"source": [
+				"http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8"
 			]
 		},
 		{
