@@ -1106,7 +1106,38 @@
 		{
 			"name": "澳亚卫视",
 			"source": [
-				"http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+				"http://stream.mastvnet.com/MASTV/sd/live.m3u8",
+				"http://61.216.177.73/sta/ch1865030.m3u8"
+			]
+		},
+		{
+			"name": "人间卫视",
+			"source": [
+				"http://61.216.177.73/sta/ch1865016.m3u8"
+			]
+		},
+		{
+			"name": "客家卫视",
+			"source": [
+				"http://61.216.177.73/sta/ch1865024.m3u8"
+			]
+		},
+		{
+			"name": "中方音乐",
+			"source": [
+				"http://61.216.177.73/sta/ch1865037.m3u8"
+			]
+		},
+		{
+			"name": "台湾电影",
+			"source": [
+				"http://61.216.177.73/sta/ch1865036.m3u8"
+			]
+		},
+		{
+			"name": "韩国美女",
+			"source": [
+				"http://61.216.177.73/sta/ch1865039.m3u8"
 			]
 		},
 		{
