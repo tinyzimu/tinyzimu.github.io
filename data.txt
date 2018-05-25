@@ -1280,7 +1280,32 @@
 
 	],
 
-	"轮播频道": [{
+	"轮播频道": [
+		{
+			"name":"CIBN喜剧影院",
+			"source":[
+				"http://221.181.100.24:8088/ws_v/cibnhsyx/cibnhsyx2000/2000/01.m3u8"
+			]
+		},
+		{
+			"name":"CIBN电影导视",
+			"source":[
+				"http://221.181.100.24:8088/ws_w/cibn/2000/index.m3u8"
+			]
+		},
+		{
+			"name":"CIBN电影",
+			"source":[
+				"http://221.181.100.24:8088/ws_v/cnbn/cnbn2000/2000/01.m3u8"
+			]
+		},
+		{
+			"name":"CIBN动漫",
+			"source":[
+				"http://221.181.100.24:8088/wd_r3/peoplecn/cibndmpd/600/index.m3u8"
+			]
+		},
+		{
 			"name": "NewTV家庭剧场",
 			"source": [
 				"http://111.20.33.72/PLTV/88888888/224/3221225518/index.m3u8",
