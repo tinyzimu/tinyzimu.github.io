@@ -1300,6 +1300,12 @@
 			]
 		},
 		{
+			"name":"CIBN热播剧场",
+			"source":[
+				"http://221.181.100.24:8088/wd_r3/peoplecn/cibnrbjc/600/index.m3u8"
+			]
+		},
+		{
 			"name":"CIBN动漫",
 			"source":[
 				"http://221.181.100.24:8088/wd_r3/peoplecn/cibndmpd/600/index.m3u8"
