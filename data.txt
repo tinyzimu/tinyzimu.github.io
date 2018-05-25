@@ -1042,12 +1042,8 @@
 				"http://223.110.243.155/PLTV/2510088/224/3221227163/1.m3u8",
 				"http://223.110.243.155:80/PLTV/3/224/3221226977/index.m3u8",
 				"http://223.110.243.142/PLTV/2510088/224/3221227163/1.m3u8",
-				"http://59.37.84.35/hls6.kascend.com/chushou_live/jade.m3u8",
+			
 				
-				"http://ax.micaesoft.com/YMitv/YMITV_CN_HKiHKifengtvnewstv_2.m3u8",
-				"http://ax.micaesoft.com/YMitv/YMITV_CN_HKiHKifengtvnewstv_1.m3u8",
-				
-				"http://hellotv-iptv.uwp.ac.cn/live/fhzx.m3u8",
 				"http://223.82.250.72/live/fhzixun/1.m3u8",
 				"http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8",
 				"http://223.110.245.139:80/PLTV/3/224/3221226980/index.m3u8"
@@ -1096,9 +1092,33 @@
 			]
 		},
 		{
-			"name": "KBS-MV",
+			"name": "澳门卫视",
 			"source": [
-				"http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8"
+				"http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+			]
+		},
+		{
+			"name": "澳门卫星",
+			"source": [
+				"http://103.233.190.12/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8"
+			]
+		},
+		{
+			"name": "澳亚卫视",
+			"source": [
+				"http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+			]
+		},
+		{
+			"name": "TVBS",
+			"source": [
+				"http://210.201.54.101/glive2/tc-tvbs/chunklist_w1000648083.m3u8"
+			]
+		},
+		{
+			"name": "KBS2",
+			"source": [
+				"http://123.108.164.71/etv2/phd847/playlist.m3u8"
 			]
 		},
 		{
