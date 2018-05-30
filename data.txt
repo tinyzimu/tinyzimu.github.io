@@ -1690,12 +1690,6 @@
 			]
 		},
 		{
-			"name": "太空救援",
-			"source": [
-				"http://disp.titan.mgtv.com/vod.do?fmt=4&pno=2220&fid=20BF4E5A74ABEC045531F02BBC816E2F&file=/c1/2018/05/07_0/20BF4E5A74ABEC045531F02BBC816E2F_20180507_1_1_657.mp4"
-			]
-		},
-		{
 			"name": "罪途1之死亡列车",
 			"source": [
 				"http://vip.kuyun99.com/ppvod/DE3E1508811272B4DE46931EEDC68ECC.m3u8"
@@ -1747,12 +1741,6 @@
 			"name": "超级战舰",
 			"source": [
 				"http://youku.com-youku.com/20171224/ewMvj2UP/800kb/hls/index.m3u8"
-			]
-		},
-		{
-			"name": "神偷奶爸2",
-			"source": [
-				"http://pcdownaliyun.titan.mgtv.com/c1/2017/05/27_0/C66F17D2CD6614E28802C2507CF4C0A2_20170527_1_1_1011.mp4?arange=0&pm=do1_Er1YYeBJSzYLA8hwqE30fntOUz_7~BaeNqv14EulJDo1qsABAA8qTP5BUj6rE83T~QmJ0QAiTJqQx35rsMpLGdpFwCeoEYYLEZVJdsky7f_KVd50WArRIYVlZZRaTzTsIpI1u0SQ4dJH6wJwRXJBzdD0T2tqycnf9G_I4AC651scoUHoQnRybbGFsTSVsaoqU6zONIkCOZVAZKHMxUVa8dJyypJulmXsxFfD3PDWoNHSiQtSLGSdsVgeKnobL5cJDCVvxxacPyqr0kpEBp~yEU0y079LTU3LJ9PGkXtjOiHJFgD1x_l5RyYkwL~tXB1TkQYsxGmlQiR1IkBPRPO8eqnmhgFH2ne7g6qblsXQ7TVNsQ8So4fq9~dqxf5bv9Zd9tf58fS8nKqdd7nMF~zYi3Q-"
 			]
 		},
 		{
@@ -1816,12 +1804,6 @@
 			]
 		},
 		{
-			"name": "神秘巨星",
-			"source": [
-				"http://tbm.alicdn.com/nvGpyhjCSfsbYn7YRNO/cvJCL3inPFkiVcaK6bh@@ld.m3u8"
-			]
-		},
-		{
 			"name": "公路美人",
 			"source": [
 				"http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8"
@@ -1846,18 +1828,6 @@
 			]
 		},
 		{
-			"name": "花芯",
-			"source": [
-				"http://tbm.alicdn.com/vUAdB2SRl6Uwi7hn7WB/NiegNk9tSk7tjxCLKqs@@hd.m3u8"
-			]
-		},
-		{
-			"name": "雷神3",
-			"source": [
-				"http://tbm.alicdn.com/vUAdB2SRl6Uwi7hn7WB/E85Objvu0xRa8DKgRbM@@hd.m3u8"
-			]
-		},
-		{
 			"name": "神奇女侠",
 			"source": [
 				"http://cdn.okokyun.com/20170908/1GlPcj2V/hls/index.m3u8"
@@ -1867,42 +1837,6 @@
 			"name": "二十二",
 			"source": [
 				"http://vip.okzybo.com/20180308/Ii8i3kpG/800kb/hls/index.m3u8"
-			]
-		},
-		{
-			"name": "红海行动",
-			"source": [
-				"http://disp.titan.mgtv.com/vod.do?fmt=4&pno=2220&fid=9D24CEA05FDB16879E7E2C4AA1269A19&file=/c1/2018/04/28_0/9D24CEA05FDB16879E7E2C4AA1269A19_20180428_1_1_1253.mp4"
-			]
-		},
-		{
-			"name": "小萝莉的猴神大叔",
-			"source": [
-				"http://pcdownaliyun.titan.mgtv.com/c1/2018/04/11_0/99428808F02998189535E8FC6626F747_20180411_1_1_1077.mp4?arange=0&pm=NZSWgAsgv6U~9zlkW~JszG5_6s_97yMJbqoQ00~sUJ9bzDLT1bbhziBUpnWbPCxlZK8MgRtXMcM0KSotAaUP3~NcLe4ZR83DnB1L1tM6oJ_gS16j~MFGCcYo8UwNX6JN070QmFcOEbTVN9RFxDjQpD9P7Ow79NxjKjldk9iZVr8Ik4_CiUGRIy6yvejMi~RqNCFetKdylIw1q~C8Jk9K6RHWRxxfiu06GFQEGQiAAufH7PbnXC7F~tL4b7XSUX2BANdorJJYLcbJL2czX1enOGEUgYpX3QZDlggMqQlv2H45Nmu9woOD7InuVaKWdz3axkjwFWH~q5mXNCd7tDTnM6MoJUt6WCnEM1n_f3R4bQbnr5kDm5kp9GEBNfTKtrQk9FCDLb6gSMbNqEhdPv4ANw--"
-			]
-		},
-		{
-			"name": "前任3",
-			"source": [
-				"http://pcdownyf.titan.mgtv.com/c1/2018/03/05_0/B0595DEB6E65A0BA8BDCFE079AC35136_20180305_1_1_630.mp4?arange=0&pm=wdr3G~m4D~G3w0~N0jOPuEMb2bLJVFHa4zMge~1ZUZD3uQobHxwZ3EId4vnt5_N5lqDsGQdZqnuskX~TLBL2rgirDenJPN21f~CfcIUWWV_XLlSw0qLIwznMPqGTlefdZI34qPGmf2Kc7xU4WT0yhm7H38Dd~LRJh2s_078VBOLZroTlPyEqennDkgma9DXsGyd5VYq~ed381QFsNPJ42S2~zdQcXRIBecT6aSEBQbn6YRy22Ct42o0nHDug5NoLiSduoy9wUO~O0EH6Q0KsjmdBnnYqVRxfoeWYyRyPOPlleG9xoOZ7Ig7_rRYDimtqm9gP6ErVgJPiLjzU8h5MFkdGGQob8qyn2~c2Y5pG6vI4xvSPKPNSY5ErjlX7oMuPBl6~bsGUUdzLnNlas46ykQ--"
-			]
-		},
-		{
-			"name": "唐人街探案2",
-			"source": [
-				"http://disp.titan.mgtv.com/vod.do?fmt=4&pno=2220&fid=C5AFB568ED929E5471BBC42EB16FD75D&file=/c1/2018/04/19_0/C5AFB568ED929E5471BBC42EB16FD75D_20180419_1_1_964.mp4"
-			]
-		},
-		{
-			"name": "捉妖记2",
-			"source": [
-				"http://disp.titan.mgtv.com/vod.do?fmt=4&pno=2220&fid=496490CF3471F1F1378C8497E21CA03F&file=/c1/2018/04/03_0/496490CF3471F1F1378C8497E21CA03F_20180403_1_1_1011.mp4"
-			]
-		},
-		{
-			"name": "佛罗里达乐园",
-			"source": [
-				"http://disp.titan.mgtv.com/vod.do?fmt=4&pno=2220&fid=98D941ACEED012459096E9FBE1E16D7B&file=/c1/2018/04/14_0/98D941ACEED012459096E9FBE1E16D7B_20180414_1_1_545.mp4"
 			]
 		},
 		{
