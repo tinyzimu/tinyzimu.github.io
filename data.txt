@@ -1523,7 +1523,155 @@
 	],
 
 
-	"热门电影": [{
+	"热门电影": [
+	
+	
+		
+		{
+			"name": "胜者为王",
+			"source": [
+				"http://youku.cdn-tudou.com/20180418/5188_e861c3a0/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "刀震江湖",
+			"source": [
+				"http://vip.kuyun99.com/ppvod/F896BA1E8AA267E95A9AAD1FC4667C10.m3u8"
+			]
+		},
+		{
+			"name": "天蓬元帅之女儿国",
+			"source": [
+				"http://video.fjhps.com/ppvod/88E9F281DBC0D4A8185C8BF78106E0C3.m3u8"
+			]
+		},
+		{
+			"name": "风流剑客",
+			"source": [
+				"http://vip.kuyun99.com/ppvod/912AF054C7424DE6880F749D2B8F0968.m3u8"
+			]
+		},
+		{
+			"name": "红尘囧探刘小唐",
+			"source": [
+				"http://youku.cdn-tudou.com/20180520/6059_61d87900/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "天蓬元帅之大闹天宫",
+			"source": [
+				"http://youku.cdn-tudou.com/20180519/6042_f30caf24/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "决战龙门",
+			"source": [
+				"http://hao.czybjz.com/ppvod/2AE7E8143A9D1C511004D86E07C41FC9.m3u8"
+			]
+		},
+		{
+			"name": "超凡跨次元",
+			"source": [
+				"http://youku.cdn-tudou.com/20180517/6014_cb702e20/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "拐个弯儿遇见你",
+			"source": [
+				"http://youku.cdn-tudou.com/20180514/5896_11003807/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "德州风云之我是一条鱼",
+			"source": [
+				"http://vip.kuyun99.com/ppvod/A63A7744F6D45F10C891B27F38E0E61A.m3u8"
+			]
+		},
+		{
+			"name": "热舞校花团",
+			"source": [
+				"http://163.com-www-letv.com/20180503/152_3f1e5f3e/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "七杀的夏日",
+			"source": [
+				"http://vip.kuyun99.com/ppvod/089F8E564A10A8263555EEB47F340716.m3u8"
+			]
+		},
+		{
+			"name": "王者联盟",
+			"source": [
+				"http://vip.kuyun99.com/ppvod/3CAB28C8EF7D2794F31BD7D9AAF22DF1.m3u8"
+			]
+		},
+		{
+			"name": "我的前桌是学霸",
+			"source": [
+				"http://youku.cdn-tudou.com/20180511/5867_6915713b/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "天降奇谋",
+			"source": [
+				"http://163.com-www-letv.com/20180510/511_f9b15aef/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "伏魔大师",
+			"source": [
+				"http://vip888.kuyun99.com/ppvod/DBA083D0CBB98905D8969476F515A99A.m3u8"
+			]
+		},
+		{
+			"name": "箫魂传3之禁忌书",
+			"source": [
+				"http://youku.cdn-tudou.com/20180525/6127_dc5a1c4d/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "秘术世界之玉莲",
+			"source": [
+				"http://163.com-www-letv.com/20180510/508_1cf27463/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "上古神兵：觉醒",
+			"source": [
+				"http://youku.cdn-tudou.com/20180514/5899_044d9b38/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "理想之路",
+			"source": [
+				"http://youku.cdn-tudou.com/20180529/6161_f98ae754/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "渠首欢歌",
+			"source": [
+				"http://youku.cdn-tudou.com/20180528/6154_fd8969f1/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "壹号别墅",
+			"source": [
+				"http://youku.cdn-tudou.com/20180524/6104_6220bb14/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "全境警戒",
+			"source": [
+				"http://youku.cdn-tudou.com/20180523/6096_2409ba7d/1000k/hls/index.m3u8"
+			]
+		},
+		{
+			"name": "任性的硬币",
+			"source": [
+				"http://youku.cdn-tudou.com/20180523/6086_ccaddeb8/1000k/hls/index.m3u8"
+			]
+		},
+		{
 			"name": "青春24秒",
 			"source": [
 				"http://vip.kuyun99.com/ppvod/F5214200F0B9E06FBC8F22D52BB04D91.m3u8"
