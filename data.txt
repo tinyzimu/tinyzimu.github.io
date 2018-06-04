@@ -1,7 +1,6 @@
 {
 	"央视频道": [{
 			"name": "CCTV-1HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV1",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8",
 				"http://116.77.76.2:5003/nn_live.ts?id=CCTV1HDTEST",
@@ -54,7 +53,6 @@
 		},
 		{
 			"name": "CCTV-2HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV2",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226051/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221227207/index.m3u8",
@@ -79,7 +77,6 @@
 		},
 		{
 			"name": "CCTV-3HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV3",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225520/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221225588/index.m3u8",
@@ -113,7 +110,6 @@
 		},
 		{
 			"name": "CCTV-4HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV4",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226052/index.m3u8",
 				
@@ -141,7 +137,6 @@
 		},
 		{
 			"name": "CCTV-5HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV5",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225497/index.m3u8",
 				
@@ -172,7 +167,6 @@
 		},
 		{
 			"name": "CCTV-6HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV6",
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221227209/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221225548/index.m3u8",
@@ -198,7 +192,6 @@
 		},
 		{
 			"name": "CCTV-7HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV7",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226053/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221225546/index.m3u8",
@@ -222,7 +215,6 @@
 		},
 		{
 			"name": "CCTV-8HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV8",
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221227204/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221227205/index.m3u8",
@@ -244,7 +236,6 @@
 		},
 		{
 			"name": "CCTV-9HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV9",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226054/index.m3u8",
 				
@@ -269,7 +260,6 @@
 		},
 		{
 			"name": "CCTV-10HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV10",
 			"source": [
 
 
@@ -299,7 +289,6 @@
 		},
 		{
 			"name": "CCTV-11",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV11",
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221225552/index.m3u8",
 				
@@ -325,7 +314,6 @@
 		},
 		{
 			"name": "CCTV-12HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV12",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226056/index.m3u8",
 				
@@ -357,7 +345,6 @@
 		},
 		{
 			"name": "CCTV-13",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV13",
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221225560/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
@@ -385,7 +372,6 @@
 		},
 		{
 			"name": "CCTV-14HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV14",
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221227201/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8",
@@ -405,7 +391,6 @@
 		},
 		{
 			"name": "CCTV-15",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV15",
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221225568/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8",
@@ -452,7 +437,6 @@
 		},
 		{
 			"name": "CETV-1",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CETV1",
 			"source": [
 				"http://111.20.33.70/PLTV/88888888/224/3221225609/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225549/index.m3u8",
@@ -473,7 +457,6 @@
 		},
 		{
 			"name": "CETV-2",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CETV2",
 			"source": [
 				"http://111.20.33.71/PLTV/88888888/224/3221225756/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225756/index.m3u8"
@@ -481,7 +464,6 @@
 		},
 		{
 			"name":"CCTV风云足球",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE1",
 			"source":[
 				"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227344/index.m3u8",
 				"http://221.181.100.24:8088/ws_v/fyzq/fyzq711/711/01.m3u8",
@@ -493,7 +475,6 @@
 		},
 		{
 			"name":"CCTV风云音乐",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE2",
 			"source":[
 				"http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227391/index.m3u8",
 				"http://221.181.100.24:8088/ws_v/fyyy/fyyy711/711/01.m3u8",
@@ -503,7 +484,6 @@
 		},
 		{
 			"name":"CCTV第一剧场",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE3",
 			"source":[
 				"http://221.181.100.24:8088/ws_v/dyjc/dyjc711/711/01.m3u8",
 				"http://223.110.243.168/PLTV/2510088/224/3221227340/1.m3u8",
@@ -514,7 +494,6 @@
 		},
 		{
 			"name":"CCTV风云剧场",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE4",
 			"source":[
 				"http://221.181.100.24:8088/ws_v/fyjc/fyjc711/711/01.m3u8",
 				"http://223.110.243.168/PLTV/2510088/224/3221227343/1.m3u8",
@@ -523,7 +502,6 @@
 		},
 		{
 			"name":"CCTV世界地理",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE5",
 			"source":[
 				"http://221.181.100.24:8088/ws_v/sjdl/sjdl711/711/01.m3u8",
 				"http://223.110.243.168/PLTV/2510088/224/3221227341/1.m3u8",
@@ -532,7 +510,6 @@
 		},
 		{
 			"name":"CCTV电视指南",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE6",
 			"source":[
 				"http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227337/index.m3u8",
 				"http://221.181.100.24:8088/ws_v/dszn/dszn711/711/01.m3u8",
@@ -542,7 +519,6 @@
 		},
 		{
 			"name":"CCTV怀旧剧场",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE7",
 			"source":[
 				"http://221.181.100.24:8088/ws_v/hjjc/hjjc711/711/01.m3u8",
 				"http://223.110.243.170/PLTV/2510088/224/3221227346/1.m3u8",
@@ -551,14 +527,12 @@
 		},
 		{
 			"name":"CCTV国防军事",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE8",
 			"source":[
 				"http://221.181.100.24:8088/ws_v/gfjs/gfjs711/711/01.m3u8"
 			]
 		},
 		{
 			"name":"CCTV女性时尚",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE9",
 			"source":[
 				"http://221.181.100.24:8088/ws_v/nxss/nxss711/711/01.m3u8",
 				"http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8",
@@ -567,21 +541,18 @@
 		},
 		{
 			"name":"CCTV老故事",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVLAOGUSHI",
 			"source":[
 				"http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8"
 			]
 		},
 		{
 			"name":"CCTV央视台球",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE36",
 			"source":[
 				"http://221.181.100.24:8088/ws_v/ystq/ystq711/711/01.m3u8"
 			]
 		},
 		{
 			"name":"CCTV央视高网",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE13",
 			"source":[
 				"http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/index.m3u8",
 				
@@ -595,7 +566,6 @@
 
 		{
 			"name": "现代女性",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE29",
 			"source": [
 				"http://223.110.245.139:80/PLTV/4/224/3221227046/index.m3u8"
 			]
@@ -621,14 +591,12 @@
 		},
 		{
 			"name": "中华美食",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CHINA-FOODTV",
 			"source": [
 				"http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8"
 			]
 		},
 		{
 			"name": "中国交通",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=NOPROGRAM",
 			"source": [
 				"http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8",
 				"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8"
@@ -668,7 +636,6 @@
 
 		{
 			"name": "CGTN",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV17",			
 			"source": [
 				"http://111.20.33.70/PLTV/88888888/224/3221225509/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225745/index.m3u8",
@@ -677,7 +644,6 @@
 		},
 		{
 			"name": "CGTN记录",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV18",
 			"source": [
 				"http://223.110.243.168/PLTV/2510088/224/3221227309/1.m3u8",
 				"http://223.110.243.169/PLTV/2510088/224/3221227309/1.m3u8",
@@ -701,7 +667,6 @@
 		},
 		{
 			"name": "CHC高清电影",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CHC1",
 			"source": [
 				"http://ivi.bupt.edu.cn/hls/chchd.m3u8"
 			]
@@ -711,7 +676,6 @@
 
 	"卫视频道": [{
 			"name": "湖南卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=HUNANTV1",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8",
 				
@@ -740,7 +704,6 @@
 		},
 		{
 			"name": "江苏卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=JSTV1",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225825/index.m3u8",
 				
@@ -771,7 +734,6 @@
 		},
 		{
 			"name": "浙江卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=ZJTV1",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225975/index.m3u8",
 				
@@ -795,7 +757,6 @@
 		},
 		{
 			"name": "东方卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=DONGFANG1",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225976/index.m3u8",
 				
@@ -823,7 +784,6 @@
 		},
 		{
 			"name": "广东卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=GDTV1",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225828/index.m3u8",
 				
@@ -857,7 +817,6 @@
 		},
 		{
 			"name": "北京卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=BTV1",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8",
@@ -879,7 +838,6 @@
 
 		{
 			"name": "天津卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=TJTV1",
 			"source": [
 				"http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8",
 				"http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8",
@@ -901,7 +859,6 @@
 		},
 		{
 			"name": "山东卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=SDTV1",
 			"source": [
 				
 				"http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8",
@@ -930,7 +887,6 @@
 		},
 		{
 			"name": "湖北卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=HUBEI1",
 			"source": [
 				"http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8",
 				"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8",
@@ -949,7 +905,6 @@
 		},
 		{
 			"name": "黑龙江卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=HLJTV1",
 			"source": [
 				"http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8",
 				"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8",
@@ -971,7 +926,6 @@
 		},
 		{
 			"name": "河北卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=HEBEI1",
 			"source": [
 				"http://weblive.hebtv.com/live/hbws_bq/index.m3u8",
 				
@@ -990,7 +944,6 @@
 		},
 		{
 			"name": "安徽卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=AHTV1",
 			"source": [
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227474/index.m3u8",
@@ -1016,7 +969,6 @@
 		},
 		{
 			"name": "辽宁卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=LNTV1",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226058/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225566/index.m3u8",
@@ -1035,7 +987,6 @@
 		},
 		{
 			"name": "东南卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=FJTV2",
 			"source": [
 			
 				"http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227152/index.m3u8",
@@ -1060,7 +1011,6 @@
 		},
 		{
 			"name": "江西卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=JXTV1",
 			"source": [
 				"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227214/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8",
@@ -1078,7 +1028,6 @@
 
 		{
 			"name": "重庆卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCQTV1",
 			"source": [
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227421/index.m3u8",
 				
@@ -1100,7 +1049,6 @@
 		},
 		{
 			"name": "深圳卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=SZTV1",
 			"source": [
 				"http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225997/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227217/index.m3u8",
@@ -1129,7 +1077,6 @@
 
 		{
 			"name": "四川卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=SCTV1",
 			"source": [
 				
 				"http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8",
@@ -1152,7 +1099,6 @@
 
 		{
 			"name": "河南卫视HD",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=HNTV1",
 			"source": [
 				"http://223.110.243.147/PLTV/3/224/3221225632/index.m3u8",
 				"http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8",
@@ -1172,7 +1118,6 @@
 
 		{
 			"name": "吉林卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=JILIN1",
 			"source": [
 				"http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8",
 				"http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226057/index.m3u8",
@@ -1186,7 +1131,6 @@
 
 		{
 			"name": "内蒙古卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=NMGTV1",
 			"source": [
 				"http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8",
 				"http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226077/index.m3u8",
@@ -1207,7 +1151,6 @@
 		},
 		{
 			"name": "宁夏卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=NXTV2",
 			"source": [
 				"http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8",
 				"http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227138/index.m3u8",
@@ -1226,7 +1169,6 @@
 		},
 		{
 			"name": "甘肃卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=GSTV1",
 			"source": [
 				"http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221225590/index.m3u8",
 				"http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221225846/index.m3u8",
@@ -1263,7 +1205,6 @@
 		},
 		{
 			"name": "陕西卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=SHXITV1",
 			"source": [
 				"http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226079/index.m3u8",
 				
@@ -1282,7 +1223,6 @@
 
 		{
 			"name": "山西卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=SXTV1",
 			"source": [
 				"http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226091/index.m3u8",
 				"http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227134/index.m3u8",
@@ -1303,7 +1243,6 @@
 		},
 		{
 			"name": "厦门卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=XMTV5",
 			"source": [
 				"http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226093/index.m3u8",
 				"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8",
@@ -1314,7 +1253,6 @@
 		},
 		{
 			"name": "广西卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=GUANXI1",
 			"source": [
 				"http://111.20.33.70/PLTV/88888888/224/3221225637/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225770/index.m3u8",
@@ -1332,7 +1270,6 @@
 		},
 		{
 			"name": "云南卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=YNTV1",
 			"source": [
 				"http://223.110.243.170/PLTV/2510088/224/3221227118/1.m3u8",
 				"http://223.110.243.171/PLTV/2510088/224/3221227118/1.m3u8",
@@ -1369,7 +1306,6 @@
 
 		{
 			"name": "新疆卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=XJTV1",
 			"source": [
 				"http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8",
 				"http://223.110.243.141/PLTV/3/224/3221225523/index.m3u8",
@@ -1388,7 +1324,6 @@
 		},
 		{
 			"name": "兵团卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=BINGTUAN",
 			"source": [
 				"http://111.20.33.69/PLTV/88888888/224/3221225627/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225627/index.m3u8",
@@ -1398,7 +1333,6 @@
 		},
 		{
 			"name": "西藏卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=XIZANGTV2",
 			"source": [
 				"http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227277/index.m3u8",
 				"http://223.110.243.145/PLTV/3/224/3221225579/index.m3u8",
@@ -1414,7 +1348,6 @@
 		},
 		{
 			"name": "旅游卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=TCTC1",
 			"source": [
 				"http://stream1.hnntv.cn/lywsgq/sd/live.m3u8",
 
@@ -1426,7 +1359,6 @@
 		},
 		{
 			"name": "延边卫视",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=YANBIAN1",
 			"source": [
 				"http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8",
 				"http://live.ybtvyun.com/video/s10006-cys/index.m3u8"
@@ -2329,8 +2261,18 @@
 
 	"热门电影": [
 	
-	
-		
+		{
+			"name": "大圣伏妖",
+			"source": [
+				"http://youku.cdn-tudou.com/20180524/6112_40cff5be/1000k/hls/index.m3u8"
+			]
+		},	
+		{
+			"name": "女访客",
+			"source": [
+				"http://youku.cdn-tudou.com/20180601/6219_2acdcff9/1000k/hls/index.m3u8"
+			]
+		},
 		{
 			"name": "胜者为王",
 			"source": [
