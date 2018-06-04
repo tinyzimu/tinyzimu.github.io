@@ -451,6 +451,35 @@
 			]
 		},
 		{
+			"name": "CETV-1",
+			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CETV1",
+			"source": [
+				"http://111.20.33.70/PLTV/88888888/224/3221225609/index.m3u8",
+				"http://111.20.33.69/PLTV/88888888/224/3221225549/index.m3u8",
+				"http://111.20.33.72/PLTV/88888888/224/3221225753/index.m3u8",
+				"http://111.20.33.70/PLTV/88888888/224/3221225549/index.m3u8",
+				
+				"http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8",
+				"http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227333/index.m3u8",
+				"http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8",
+				
+				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8",
+				"http://223.110.243.138/PLTV/2510088/224/3221227333/1.m3u8",
+				"http://223.110.243.139/PLTV/2510088/224/3221227333/1.m3u8",
+				"http://223.110.243.171/PLTV/2510088/224/3221227333/1.m3u8",
+				"http://223.110.243.170/PLTV/2510088/224/3221227333/1.m3u8"
+
+			]
+		},
+		{
+			"name": "CETV-2",
+			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CETV2",
+			"source": [
+				"http://111.20.33.71/PLTV/88888888/224/3221225756/index.m3u8",
+				"http://111.20.33.70/PLTV/88888888/224/3221225756/index.m3u8"
+			]
+		},
+		{
 			"name":"CCTV风云足球",
 			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE1",
 			"source":[
@@ -563,67 +592,7 @@
 				"http://223.110.243.171/PLTV/2510088/224/3221227347/1.m3u8"
 			]
 		},
-		{
-			"name": "CETV-1",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CETV1",
-			"source": [
-				"http://111.20.33.70/PLTV/88888888/224/3221225609/index.m3u8",
-				"http://111.20.33.69/PLTV/88888888/224/3221225549/index.m3u8",
-				"http://111.20.33.72/PLTV/88888888/224/3221225753/index.m3u8",
-				"http://111.20.33.70/PLTV/88888888/224/3221225549/index.m3u8",
-				
-				"http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8",
-				"http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227333/index.m3u8",
-				"http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8",
-				
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8",
-				"http://223.110.243.138/PLTV/2510088/224/3221227333/1.m3u8",
-				"http://223.110.243.139/PLTV/2510088/224/3221227333/1.m3u8",
-				"http://223.110.243.171/PLTV/2510088/224/3221227333/1.m3u8",
-				"http://223.110.243.170/PLTV/2510088/224/3221227333/1.m3u8"
 
-			]
-		},
-		{
-			"name": "CETV-2",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CETV2",
-			"source": [
-				"http://111.20.33.71/PLTV/88888888/224/3221225756/index.m3u8",
-				"http://111.20.33.70/PLTV/88888888/224/3221225756/index.m3u8"
-			]
-		},
-		{
-			"name": "CNC1HD",
-			"source": [
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227441/index.m3u8",
-				"http://223.110.245.170/PLTV/3/224/3221227441/index.m3u8"
-			]
-		},
-		{
-			"name": "CNC2HD",
-			"source": [
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227444/index.m3u8",
-				"http://223.110.245.170/PLTV/3/224/3221227444/index.m3u8"
-			]
-		},
-		{
-			"name": "ICNTV宫廷剧场",
-			"source": [
-				"http://116.66.222.46:8082/TV4002.m3u8"
-			]
-		},
-		{
-			"name": "ICNTV王牌综艺",
-			"source": [
-				"http://116.66.222.46:8082/TV4005.m3u8"
-			]
-		},
-		{
-			"name": "ICNTV精品大剧",
-			"source": [
-				"http://116.66.222.46:8082/TV4007.m3u8"
-			]
-		},
 		{
 			"name": "现代女性",
 			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTVPAYFEE29",
@@ -637,12 +606,7 @@
 				"http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8"
 			]
 		},
-		{
-			"name": "中国INTV",
-			"source": [
-				"http://116.66.222.46:8082/TV4018.m3u8"
-			]
-		},
+
 		{
 			"name": "中国戏曲",
 			"source": [
@@ -670,6 +634,38 @@
 				"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8"
 			]
 		},
+	
+		{
+			"name": "ICNTV宫廷剧场",
+			"source": [
+				"http://116.66.222.46:8082/TV4002.m3u8"
+			]
+		},
+		{
+			"name": "ICNTV王牌综艺",
+			"source": [
+				"http://116.66.222.46:8082/TV4005.m3u8"
+			]
+		},
+		{
+			"name": "ICNTV精品大剧",
+			"source": [
+				"http://116.66.222.46:8082/TV4007.m3u8"
+			]
+		},
+		{
+			"name": "ICNTV中国功夫",
+			"source": [
+				"http://116.66.222.46:8082/TV4017.m3u8"
+			]
+		},
+		{
+			"name": "ICNTV中国INTV",
+			"source": [
+				"http://116.66.222.46:8082/TV4018.m3u8"
+			]
+		},
+
 		{
 			"name": "CGTN",
 			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV17",			
@@ -687,6 +683,20 @@
 				"http://223.110.243.169/PLTV/2510088/224/3221227309/1.m3u8",
 				"http://223.110.243.172/PLTV/2510088/224/3221227309/1.m3u8",
 				"http://223.110.243.173/PLTV/2510088/224/3221227309/1.m3u8"
+			]
+		},
+		{
+			"name": "CNC1HD",
+			"source": [
+				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227441/index.m3u8",
+				"http://223.110.245.170/PLTV/3/224/3221227441/index.m3u8"
+			]
+		},
+		{
+			"name": "CNC2HD",
+			"source": [
+				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227444/index.m3u8",
+				"http://223.110.245.170/PLTV/3/224/3221227444/index.m3u8"
 			]
 		},
 		{
