@@ -1929,33 +1929,45 @@
 
 	"轮播频道": [
 		{
-			"name":"CIBN喜剧影院",
+			"name":"喜剧总动员",
 			"source":[
-				"http://221.181.100.24:8088/ws_v/cibnhsyx/cibnhsyx2000/2000/01.m3u8"
+				"http://rotation.vod.bukayi.cn/channel/2270.m3u8"
 			]
 		},
 		{
-			"name":"CIBN电影导视",
+			"name":"嘴巴笑歪",
 			"source":[
-				"http://221.181.100.24:8088/ws_w/cibn/2000/index.m3u8"
+				"http://rotation.vod.bukayi.cn/channel/2672.m3u8"
 			]
 		},
 		{
-			"name":"CIBN电影",
+			"name":"爆笑恶作剧",
 			"source":[
-				"http://221.181.100.24:8088/ws_v/cnbn/cnbn2000/2000/01.m3u8"
+				"http://rotation.vod.bukayi.cn/channel/2345.m3u8"
 			]
 		},
 		{
-			"name":"CIBN热播剧场",
+			"name":"相声合集",
 			"source":[
-				"http://221.181.100.24:8088/wd_r3/peoplecn/cibnrbjc/600/index.m3u8"
+				"http://rotation.vod.bukayi.cn/channel/2418.m3u8"
 			]
 		},
 		{
-			"name":"CIBN动漫",
+			"name":"密室逃脱",
 			"source":[
-				"http://221.181.100.24:8088/wd_r3/peoplecn/cibndmpd/600/index.m3u8"
+				"http://rotation.vod.bukayi.cn/channel/2775.m3u8"
+			]
+		},
+		{
+			"name":"妈妈3",
+			"source":[
+				"http://rotation.vod.bukayi.cn/channel/2630.m3u8"
+			]
+		},
+		{
+			"name":"喜剧总动员2",
+			"source":[
+				"http://rotation.vod.bukayi.cn/channel/2740.m3u8"
 			]
 		},
 		{
