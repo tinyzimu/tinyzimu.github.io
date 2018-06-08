@@ -1959,7 +1959,7 @@
 			]
 		},
 		{
-			"name":"妈妈3",
+			"name":"妈妈是超人",
 			"source":[
 				"http://rotation.vod.bukayi.cn/channel/2630.m3u8"
 			]
