@@ -4,7 +4,8 @@
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8",
 				"http://116.77.76.2:5003/nn_live.ts?id=CCTV1HDTEST",
-				
+				"http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225579/index.m3u8",
+
 				"http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221226316/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221226924/index.m3u8",
@@ -59,6 +60,7 @@
 				"http://223.110.245.170/PLTV/3/224/3221227412/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227412/index.m3u8",
+				"http://223.110.243.136/ott.js.chinamobile.com/PLTV/2510088/224/3221227199/1.m3u8",
 				
 				"http://223.110.243.136/PLTV/2510088/224/3221227199/1.m3u8",
 				"http://223.110.243.137/PLTV/2510088/224/3221227199/1.m3u8",
@@ -79,6 +81,8 @@
 			"name": "CCTV-3HD",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225520/index.m3u8",
+				"http://223.110.243.150/PLTV/3/224/3221225588/index.m3u8",
+				"http://223.110.243.136/PLTV/3/224/3221227206/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221225588/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221227206/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8",
@@ -112,6 +116,8 @@
 			"name": "CCTV-4HD",
 			"source": [
 				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226052/index.m3u8",
+
+				"http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226052/index.m3u8",
 				
 				"http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8",
 				"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8",
@@ -122,6 +128,7 @@
 				"http://223.110.243.139/PLTV/2510088/224/3221227162/1.m3u8",
 				"http://223.110.243.172/PLTV/2510088/224/3221227162/1.m3u8",
 				"http://223.110.243.173/PLTV/2510088/224/3221227162/1.m3u8",
+				"http://223.110.243.168/PLTV/3/224/3221225534/index.m3u8",
 				
 				"http://116.66.222.46:8082/TV5001.m3u8",
 				"http://223.82.250.72/ysten-business/live/cctv-4/1.m3u8",
@@ -156,10 +163,12 @@
 				"http://223.110.243.169/PLTV/2510088/224/3221227202/1.m3u8",
 				
 				"http://223.82.250.72/ysten-business/live/cctv-5/1.m3u8",
+				"http://111.20.33.72/PLTV/88888888/224/3221225545/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225780/index.m3u8",
 				"http://111.20.33.71/PLTV/88888888/224/3221225545/index.m3u8",
 				"http://111.20.33.70/PLTV/88888888/224/3221225545/index.m3u8",
 				"http://111.20.33.69/PLTV/88888888/224/3221225780/index.m3u8",
+				"http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225545/index.m3u8",
 				"http://223.110.243.135/PLTV/3/224/3221226324/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3424",
 				"http://zzcs4.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_com/live/C5H/1.m3u8",
 				"http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
@@ -170,12 +179,15 @@
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221227209/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221225548/index.m3u8",
+				"http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8",
+				
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8",
 				"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8",
 				"http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8",
 				"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8",
 				"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8",
+				"http://223.110.243.149/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8",
 				
 				"http://223.110.243.170/PLTV/2510088/224/3221227145/1.m3u8",
 				"http://223.110.243.171/PLTV/2510088/224/3221227145/1.m3u8",
@@ -186,6 +198,8 @@
 				"http://111.20.33.70/PLTV/88888888/224/3221225779/index.m3u8",
 				
 				"http://223.82.250.72/ysten-business/live/cctv-6/1.m3u8",
+				"http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8",
+
 				"http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
 
 			]
@@ -413,8 +427,7 @@
 			]
 		},
 		{
-			"name": "CCTV5+",
-			"program":"https://www.tvmao.com/servlet/wechat?day=-1&op=getProgramByChnid&epgCode=CCTV5+",
+			"name": "CCTV5+",			
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221225604/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221226322/index.m3u8",
@@ -426,6 +439,7 @@
 				"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227465/index.m3u8",
 				"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227480/index.m3u8",
 				
+				"http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225534/index.m3u8",
 				"http://223.110.243.168/PLTV/2510088/224/3221227276/1.m3u8",
 				"http://223.110.243.169/PLTV/2510088/224/3221227276/1.m3u8",
 				"http://111.20.33.72/PLTV/88888888/224/3221225534/index.m3u8",
@@ -1754,7 +1768,7 @@
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221226922/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221226977/index.m3u8",
-				
+				"http://live.fengshows.com/live/PCC_500k/index.m3u8?ts=&token=",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226977/index.m3u8",
 				"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
@@ -1785,14 +1799,14 @@
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221226923/index.m3u8",
 				"http://223.110.245.170/PLTV/3/224/3221226980/index.m3u8",
-				
+				"http://live.fengshows.com/live/PIN_500k/index.m3u8?ts=&token=",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226980/index.m3u8",
 				"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
 				"http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226980/index.m3u8",
 				"http://223.110.245.166/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
 				"http://223.110.245.138/ott.js.chinamobile.com/PLTV/3/224/3221226980/index.m3u8",
-
+				
 				"http://223.110.243.134/PLTV/2510088/224/3221227163/1.m3u8",
 				"http://223.110.243.135/PLTV/2510088/224/3221227163/1.m3u8",
 				"http://223.110.243.136/PLTV/2510088/224/3221227163/1.m3u8",
@@ -1816,6 +1830,8 @@
 			"name": "凤凰香港",
 			"source": [
 				"http://223.110.245.170/PLTV/3/224/3221226975/index.m3u8",
+
+				"http://live.fengshows.com/live/PHK_500k/index.m3u8?ts=&token=",
 				
 				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8",
 				"http://223.110.243.142/PLTV/2510088/224/3221227183/1.m3u8",
@@ -1836,12 +1852,15 @@
 			"source": [
 				"http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8",
 				"http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
+				
 			]
 		},
+
 		{
-			"name": "MV",
+			"name": "澳门莲花",
 			"source": [
-				"http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8"
+				"http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8",
+				"http://stream.mastvnet.com/MSTV/SD/live.m3u8"
 			]
 		},
 		{
@@ -1881,39 +1900,9 @@
 				"http://stream.mastvnet.com/MASTV/sd/live.m3u8",
 				"http://61.216.177.73/sta/ch1865030.m3u8"
 			]
-		},
-		
-		{
-			"name": "奇幻电影",
-			"source": [
-				"http://47.95.172.168/channel/2284.m3u8"
-			]
-		},
-		{
-			"name": "爆笑喜剧",
-			"source": [
-				"http://47.95.172.168/channel/2421.m3u8"
-			]
-		},
-		{
-			"name": "贺岁电影",
-			"source": [
-				"http://47.95.172.168/channel/2558.m3u8"
-			]
-		},
-		{
-			"name": "极速汽车",
-			"source": [
-				"http://111.20.33.70/PLTV/88888888/224/3221225644/index.m3u8"
-			]
 		}
-
-
-
-
-
-
-	],
+		
+],
 
 	"轮播频道": [
 		{
@@ -1953,9 +1942,39 @@
 			]
 		},
 		{
-			"name":"喜剧总动员2",
+			"name":"欢乐喜剧人",
 			"source":[
 				"http://rotation.vod.bukayi.cn/channel/2740.m3u8"
+			]
+		},
+		{
+			"name": "奇幻电影",
+			"source": [
+				"http://47.95.172.168/channel/2284.m3u8"
+			]
+		},
+		{
+			"name": "爆笑喜剧",
+			"source": [
+				"http://47.95.172.168/channel/2421.m3u8"
+			]
+		},
+		{
+			"name": "贺岁电影",
+			"source": [
+				"http://47.95.172.168/channel/2558.m3u8"
+			]
+		},
+		{
+			"name": "极速汽车",
+			"source": [
+				"http://111.20.33.70/PLTV/88888888/224/3221225644/index.m3u8"
+			]
+		},
+		{
+			"name": "MV",
+			"source": [
+				"http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8"
 			]
 		},
 		{
