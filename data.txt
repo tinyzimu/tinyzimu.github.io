@@ -1845,18 +1845,6 @@
 			]
 		},
 		{
-			"name": "翡翠台",
-			"source": [
-				"http://qqpullhls.inke.cn/live/1526032684303089.m3u8"
-			]
-		},
-		{
-			"name": "非凡新闻",
-			"source": [
-				"http://60.199.188.65/HLS/WG_USTV-N/index.m3u8"
-			]
-		},
-		{
 			"name": "中天新闻",
 			"source": [
 				"http://210.201.54.102/glive2/tc-ctinews/chunklist_w163673859.m3u8"
