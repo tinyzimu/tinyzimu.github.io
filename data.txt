@@ -1106,6 +1106,12 @@
 
 	"本地频道": [
 		{
+			"name": "新视觉HD",
+			"source": [
+				"http://httpdvb.slave.pyitv.com/playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851549&file=.m3u"
+			]
+		},
+		{
 			"name": "河南都市频道",
 			"source": [
 				"http://hntvpull.8686c.com/wxtv/HeNan-2/playlist.m3u8",
