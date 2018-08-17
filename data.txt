@@ -531,7 +531,7 @@
 			]
 		},
 		{
-			"name": "中华美食",
+			"name": "网络棋牌",
 			"source": [
 				"http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8"
 			]
@@ -1179,6 +1179,15 @@
 			"source": [		
 				"http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000150&playtoken=ABCDEFGH&auth=no",		
 				"http://httpdvb.slave.pyitv.com/playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851549&file=.m3u"
+			]
+		},
+		
+		{
+			"name": "五星体育",
+			"source": [				
+				"http://hls.mv.wa5.com/live/gssports1/playlist.m3u8",
+				"http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8",
+				"http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8"
 			]
 		},
 		
@@ -2187,13 +2196,6 @@
 			"source": [
 				"http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226392/index.m3u8"
 			]
-		},
-		{
-			"name": "五星体育",
-			"source": [
-				"http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8",
-				"http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8"
-			]
 		}
 
 	],
@@ -2245,6 +2247,12 @@
 			]
 		},
 		{
+			"name": "台视HD",
+			"source": [				
+				"http://125.227.35.176:18080/CTS/index.m3u8"
+			]
+		},
+		{
 			"name": "健康卫视",
 			"source": [				
 				"http://live.jkwshk.tv/AppName/StreamName.m3u8"
@@ -2293,6 +2301,12 @@
 			]
 		},
 		{
+			"name": "澳门TDM",
+			"source": [
+				"http://103.233.191.136:1935/ch3/ch3.live/playlist.m3u8"
+			]
+		},
+		{
 			"name": "澳亚卫视",
 			"source": [
 				"http://stream.mastvnet.com/MASTV/sd/live.m3u8",
@@ -2325,11 +2339,136 @@
 				
 			]
 		},
-
+		{
+			"name": "卫星剧场",
+			"source": [
+				"http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8"
+				
+			]
+		},
 		{
 			"name": "明珠台",
 			"source": [
 				"http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31"
+				
+			]
+		},
+		{
+			"name": "韩国阿里郞",
+			"source": [
+				"http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+				
+			]
+		},
+		{
+			"name": "美国CSpan",
+			"source": [
+				"http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8"
+				
+			]
+		},
+		{
+			"name": "CityTV",
+			"source": [
+				"http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8"
+				
+			]
+		},
+		{
+			"name": "PAC12NetWork",
+			"source": [
+				"http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8"
+				
+			]
+		},
+		{
+			"name": "韩国KoreaTV",
+			"source": [
+				"http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8"
+				
+			]
+		},
+		{
+			"name": "九寨沟新闻综合",
+			"source": [
+				"http://111.231.194.231:85/live/xwzh_500k.m3u8"
+				
+			]
+		},
+		{
+			"name": "天映频道",
+			"source": [
+				"http://95.211.216.77:8278/Celestial/playlist.m3u8"
+				
+			]
+		},
+		{
+			"name": "纬来日本",
+			"source": [
+				"http://60.250.23.14:18080/VLJP/index.m3u8"
+				
+			]
+		},
+		{
+			"name": "三立都会台",
+			"source": [
+				"http://60.250.23.14:18080/setcity/index.m3u8"
+				
+			]
+		},
+		{
+			"name": "三立台湾台",
+			"source": [
+				"http://125.227.35.176:18080/set/index.m3u8"
+				
+			]
+		},
+		{
+			"name": "东森新闻台",
+			"source": [
+				"http://60.250.23.14:18080/CtiNews/index.m3u8"
+				
+			]
+		},
+		{
+			"name": "东森电影台",
+			"source": [
+				"http://125.227.35.176:18080/ETChan/index.m3u8"
+				
+			]
+		},
+		{
+			"name": "台湾希望电视",
+			"source": [
+				"http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8"
+				
+			]
+		},
+		{
+			"name": "TVB财经",
+			"source": [
+				"http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8"
+				
+			]
+		},
+		{
+			"name": "香港RH31台",
+			"source": [
+				"http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8"
+				
+			]
+		},
+		{
+			"name": "客家电视台",
+			"source": [
+				"http://61.216.177.73/sta/ch1865024.m3u8"
+				
+			]
+		},
+		{
+			"name": "TITV",
+			"source": [
+				"http://61.216.177.73/sta/ch1865031.m3u8"
 				
 			]
 		},
@@ -2523,6 +2662,13 @@
 				"http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8",
 				"http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8",
 				"http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8"
+			]
+		},
+		{
+			"name": "王晶电影",
+			"source": [
+				"http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8"
+				
 			]
 		},
 		{
