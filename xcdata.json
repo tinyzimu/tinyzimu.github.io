@@ -815,6 +815,7 @@
 		{
 			"name": "东南卫视HD",
 			"source": [
+				"http://124.47.33.200/PLTV/88888888/224/3221225598/index.m3u8",
 				"http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8",
 				"http://223.110.243.143/PLTV/3/224/3221225598/index.m3u8",
 				"http://223.110.243.158/PLTV/3/224/3221225598/index.m3u8",
@@ -864,6 +865,8 @@
 		{
 			"name": "四川卫视HD",
 			"source": [
+				"http://111.44.138.251:15414/contents37/live/CHANNELac6d97c9a8fd48bc95eadbd3c8f80724/HD_475800769612412761/live.m3u8",
+				"http://124.47.33.200/PLTV/88888888/224/3221225600/index.m3u8",
 				"http://223.110.243.164/PLTV/3/224/3221225570/index.m3u8",
 				"http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8",
 				"http://scgctvshow.sctv.com/scgc/sctv1deu5453w/3.m3u8",
@@ -933,6 +936,7 @@
 		{
 			"name": "陕西卫视",
 			"source": [
+				"http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8",
 				"http://223.110.243.164/PLTV/3/224/3221225626/index.m3u8",
 				"http://223.110.241.204:6610/gitv/live1/G_SHANXI/G_SHANXI/",
 				"http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226079/index.m3u8",
@@ -988,6 +992,7 @@
 			"name": "贵州卫视",
 
 			"source": [
+				"http://124.47.33.200/PLTV/88888888/224/3221225586/index.m3u8",
 				"http://onsite.gzstvcloud.com/crbw8t/gzst/9ECECC1B8C774E69826716C239CDF977/5a619857d5e887b7dd8c2643/roomid/hsn2te.m3u8",
 				"http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8",
 				"http://223.110.243.153/PLTV/3/224/3221225540/index.m3u8",
@@ -8878,13 +8883,6 @@
 			]
 		},
 		{
-			"name": "三立台湾台",
-			"source": [
-				"http://125.227.35.176:18080/set/index.m3u8"
-
-			]
-		},
-		{
 			"name": "东森新闻台",
 			"source": [
 				"http://60.250.23.14:18080/CtiNews/index.m3u8"
@@ -8901,6 +8899,7 @@
 		{
 			"name": "翡翠台",
 			"source": [
+				"http://pullhls.inke.cn/live/1535368876907507/playlist.m3u8",
 				"http://hls.liveplay.myqcloud.com/live/jadep.m3u8",
 				"http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=30#",
 				"http://pulllive-al.wasu.cn/live/5881928de456000ae179ea137b256f69.m3u8",
@@ -8923,7 +8922,12 @@
 				"http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31"
 			]
 		},
-
+		{
+			"name": "美亚电影台",
+			"source": [
+				"http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/4vphhg1h/index.m3u8"
+			]
+		}, 
 		{
 			"name": "澳视高清",
 			"source": [
@@ -8993,13 +8997,6 @@
 		},
 
 		{
-			"name": "天映经典",
-			"source": [
-				"http://95.211.216.77:8278/Celestial2/playlist.m3u8"
-
-			]
-		},
-		{
 			"name": "环球卫视",
 			"source": [
 				"http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8",
@@ -9037,12 +9034,6 @@
 			]
 		},
 		{
-			"name": "非凡新闻HD",
-			"source": [
-				"http://60.199.188.61/HLS/WG_USTV-N/index.m3u8"
-			]
-		},
-		{
 			"name": "TVBS新闻台HD",
 			"source": [
 				"http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8"
@@ -9054,6 +9045,7 @@
 		{
 			"name": "无线新闻台",
 			"source": [
+				"http://edge20-1.edgeware.hk4.tvb.com:80/session/5751c612-aa44-11e8-9dad-0050569023d7/qh33qv/newslive/smil:mobilehd_inews.smil/playlist.m3u8?token=6971cfe008645bd6b84013d1557ed014_1535493513_1535493513",
 				"http://103.89.176.45:8278/Inews/playlist.m3u8",
 				"http://120.198.235.68/103.89.176.45:8278/Inews/playlist.m3u8"
 			]
@@ -9061,6 +9053,7 @@
 		{
 			"name": "无线财经资讯台",
 			"source": [
+				"http://edge22-1.edgeware.hk4.tvb.com:80/session/0ad70ba0-aa3d-11e8-af22-005056b12cf7/dtysfd/newslive/smil:mobilehd_finance.smil/playlist.m3u8?token=15e347ff7f3c916d4c99d6802f2b439f_1535490378_1535490378",
 				"http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8"
 
 			]
@@ -9385,378 +9378,1100 @@
 			]
 		},
 		{
+			"name": "周星星电影",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "火蓝刀锋电影院",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2672445369-11478065460201652224-2777037926-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "爱情公寓",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "六点半影院",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "阿斗归来",
+			"source": [
+				"https://ws.streamhls.huya.com/huyalive/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "亮剑",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "林正英电影1",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "林正英电影2",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "军旅神剧",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "魔幻手机",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "新三国",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "红色经典片",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "热血高校",
+			"source": [
+				"https://txdirect.hls.huya.com/huyalive/29169025-2686219818-11537226268177072128-2789253878-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "男神",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "黑帮大片",
+			"source": [
+				"https://txdirect.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "成龙武侠片",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "恐咘搞笑",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "碟中谍6",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2702910360-11608911600219586560-4586861402-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "大师兄",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2673320590-11481824505773424640-3048991606-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "超级英雄",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "李连杰武侠片",
+			"source": [
+				"https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "徐峥影片",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "徐峥影片2",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "铁齿铜牙纪晓岚",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "杰森斯坦森",
+			"source": [
+				"https://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "勇敢者游戏3",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "异型怪物",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "生化危机",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "乔丹看了会流泪",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "周润发",
+			"source": [
+				"https://ws.streamhls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "黄渤",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "我是特种兵",
+			"source": [
+				"https://al.hls.huya.com/huyalive/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "神雕侠侣古天乐",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "医馆笑传",
+			"source": [
+				"https://txdirect.hls.huya.com/huyalive/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "特级战争片",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "康熙微服私访",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "野食小哥",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "狼叔",
+			"source": [
+				"https://ws3.streamhls.huya.com/huyalive/94525224-2699462070-11594101307442462720-2966491422-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "女神系列2",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "女神系列3",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "喜剧荟萃",
+			"source": [
+				"https://ws3.streamhls.huya.com/huyalive/94525224-2701809014-11604181355168006144-158309560-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "倚天屠龙记",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "终极一班",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "雍正王朝",
+			"source": [
+				"https://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "轩辕剑",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "赵本山小品集",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "赵家班小品集",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-1525339704-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "扁豆电影",
+			"source": [
+				"https://ws.streamhls.huya.com/huyalive/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "变形金刚",
+			"source": [
+				"https://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "三国演义",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "齐天大圣张卫健",
+			"source": [
+				"https://ws4.streamhls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "赌片大集合",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "重案六组",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "王晶",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "封神榜",
+			"source": [
+				"https://ws4.streamhls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "民兵葛二蛋",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2675956786-11493146881379270656-3049003120-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "康熙王朝",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "天龙八部",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "龙门镖局",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "伪装者",
+			"source": [
+				"https://js.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "咱们结婚吧",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "速度与激情",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "黑子影院",
+			"source": [
+				"https://ws.streamhls.huya.com/huyalive/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "死神来了",
+			"source": [
+				"https://txdirect.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "天地玄黄",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "西方神话",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "未解之谜",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "电锯惊魂系列恐怖片",
+			"source": [
+				"https://al.hls.huya.com/huyalive/29106097-2689451202-11551104956777889792-2789274590-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "宝莲灯",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "超级热片",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "少林寺传奇",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "黑夜传说",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "大宅门",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "四大天王",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "李小龙传奇",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/28466698-2686637732-11539021195139612672-3048959574-10057-A-1524196077-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "小李飞刀",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "哈利波特",
+			"source": [
+				"https://ws4.streamhls.huya.com/huyalive/30765679-2484192728-10669526523721023488-3048991650-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "老烟斗电影院",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/94525224-2670502970-11469722920020869120-3739254198-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "还珠格格",
+			"source": [
+				"https://ws4.streamhls.huya.com/huyalive/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "仙剑奇侠传",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "春光灿烂猪八戒",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "大秦帝国",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "大唐双龙传",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2554414910-10971128498864783360-3049003166-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "少林足球",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "鲨鱼笼系列",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/30765679-2554414651-10971127386468253696-3048959632-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "俗哥电影院",
+			"source": [
+				"https://ws3.streamhls.huya.com/huyalive/94525224-2691536102-11560059534093320192-3374123844-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},
+		{
+			"name": "西游记后传",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "开心鬼",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "台湾重口味电影",
+			"source": [
+				"https://al.hls.huya.com/huyalive/94525224-2696926374-11583210576049864704-4479103546-10057-A-0-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "考古系列片",
+			"source": [
+				"https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8"
+			]
+		},
+		{
+			"name": "韩国电影",
+			"source": [
+				"https://ws.streamhls.huya.com/huyalive/94525224-2703053314-11609525582974418944-239402834-10057-A-0-1_1200/playlist.m3u8"
+			]
+		},	
+				{
+			"name": "九品芝麻官",
+			"source": [
+				"http://zy.kakazy-yun.com/20180105/1HTctOY3/index.m3u8"
+			]
+    	},
+		{
+			"name": "食神",
+			"source": [
+				"http://yun.zxziyuan-yun.com/20180411/ibH3cXda/index.m3u8"
+			]
+		},
+		{
+			"name": "千王之王2000",
+			"source": [
+				"http://hot.jingpin88.com/20180118/hD3y5xEl/index.m3u8"
+			]
+		},
+		{
+			"name": "鹿鼎记1",
+			"source": [
+				"http://zaixian.jingpin88.com/20180508/QMOB2WH2/index.m3u8"
+			]
+		},
+		{
+			"name": "鹿鼎记2神龙教",
+			"source": [
+				"http://zaixian.jingpin88.com/20180508/y8S4nPbx/index.m3u8"
+			]
+		},
+		{
+			"name": "百变星君",
+			"source": [
+				"http://hair.jingpin88.com/20171224/E843ai24/index.m3u8"
+			]
+		},
+		{
+			"name": "国产凌凌漆",
+			"source": [
+				"http://zy.kakazy-yun.com/20180105/0ofSPqAB/index.m3u8"
+			]
+		},
+		{
+			"name": "功夫",
+			"source": [
+				"http://zy.kakazy-yun.com/20171110/jDeGvxIq/index.m3u8"
+			]
+		},
+		{
+			"name": "整蛊专家",
+			"source": [
+				"http://yun.zxziyuan-yun.com/20180105/2c1u0LsM/index.m3u8"
+			]
+		},
+		{
+			"name": "唐伯虎点秋香",
+			"source": [
+				"http://zy.kakazy-yun.com/20180105/uYV0FZqJ/index.m3u8"
+			]
+		},
+		{
+			"name": "无敌幸运星",
+			"source": [
+				"http://zy.kakazy-yun.com/20180105/VO7CXyLL/index.m3u8"
+			]
+		},
+		{
+			"name": "赌侠",
+			"source": [
+				"http://yun.zxziyuan-yun.com/20180105/azkR8fON/index.m3u8"
+			]
+		},
+		{
+			"name": "回魂夜",
+			"source": [
+				"http://yun.zxziyuan-yun.com/20180105/QE0Vyzed/index.m3u8"
+			]
+		},
+		{
+			"name": "审死官",
+			"source": [
+				"http://yun.zxziyuan-yun.com/20180105/jwTgFfF7/index.m3u8"
+			]
+		},
+		{
+			"name": "逃学威龙2",
+			"source": [
+				"http://yun.zxziyuan-yun.com/20180105/nPDazV5f/index.m3u8"
+			]
+		},
+		{
+			"name": "逃学威龙3之龙过鸡年",
+			"source": [
+				"http://yun.zxziyuan-yun.com/20180105/vNuv1Rjz/index.m3u8"
+			]
+		},
+		{
+			"name": "大话西游之月光宝盒",
+			"source": [
+				"https://zy.512wx.com/20171126/XQeF6FYN/index.m3u8"
+			]
+		},
+		{
+			"name": "赌侠大战拉斯维加斯",
+			"source": [
+				"http://vip.okokbo.com/20180110/gqw3yTMg/index.m3u8"
+			]
+		},
+		{
+			"name": "行运一条龙",
+			"source": [
+				"http://vip.okokbo.com/20180102/iGHxuVTi/index.m3u8"
+			]
+		},
+		{
+			"name": "赌侠1999",
+			"source": [
+				"http://vip.okokbo.com/20171230/phuUWJ0N/index.m3u8"
+			]
+		},
+			
+		{
 			"name": "战旗电影1",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影2",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/44509_4oiYY.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影3",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/237302_xE3QL.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影4",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/199742_KLCj3.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影5",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影6",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/5993_qvXCc.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影7",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影8",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/24163_v7WWQ.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影9",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/92686_dpzTV.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影10",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/116067_vYIsj.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影11",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/56461_PBdql.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影12",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/53583_u9izW.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影13",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/191499_M4ASe.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影14",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/197641_e8jtT.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影15",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/140734_jcqhS.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影16",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/260346_AvFC9.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影17",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/203786_ye3r4.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影18",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/228492_Dia5C.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影19",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/18659_jrhc4.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影20",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/210178_wrKji.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影21",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/270708_e9g8U.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影22",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/241840_hRxc9.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/269138_5vRg5.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影23",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/270559_JCVv6.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影24",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/154733_xcVyM.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/270477_DwJ2U.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影25",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/264921_var6N.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影26",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/176902_JFvkv.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/268986_yv9uS.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影27",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/74160_mUCBT.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影28",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/130564_7PZZr.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/44509_4oiYY.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影29",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影30",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/245602_ApoFG.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影31",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/182988_cn66n.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影32",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影33",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影34",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影35",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影36",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/185488_aff4a.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影37",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影38",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/199301_y2bWG.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影39",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/264421_0rVE9.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/241840_hRxc9.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影40",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/244770_zcD6b.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影41",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/264395_mnbIi.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/154733_xcVyM.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影42",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/264417_dPUXM.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影43",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/176902_JFvkv.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影44",
 			"source": [
-				"http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/74160_mUCBT.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影45",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/130564_7PZZr.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影46",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影47",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/245602_ApoFG.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影48",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/182988_cn66n.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影49",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影50",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影51",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/185488_aff4a.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影52",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影53",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/199301_y2bWG.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影54",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/264421_0rVE9.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影55",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/244770_zcD6b.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影56",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/264395_mnbIi.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影57",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/264417_dPUXM.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影58",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影59",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8"
+				"http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影60",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影61",
 			"source": [
-				"http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8"
+				"http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8"
 			]
 		},
 		{
 			"name": "战旗电影62",
 			"source": [
+				"http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8"
+			]
+		},
+		{
+			"name": "战旗电影63",
+			"source": [
+				"http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8"
+			]
+		},
+		{
+			"name": "战旗电影64",
+			"source": [
+				"http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
+			]
+		},
+		{
+			"name": "战旗电影65",
+			"source": [
+				"http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+			]
+		},
+		{
+			"name": "战旗电影66",
+			"source": [
+				"http://alhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8"
+			]
+		},
+		{
+			"name": "战旗电影67",
+			"source": [
+				"http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+			]
+		},
+		{
+			"name": "战旗电影68",
+			"source": [
+				"http://alhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8"
+			]
+		},
+		{
+			"name": "战旗电影69",
+			"source": [
+				"http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8"
+			]
+		},
+		{
+			"name": "战旗电影70",
+			"source": [
+				"http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8"
+			]
+		},
+		{
+			"name": "战旗电影71",
+			"source": [
 				"http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8"
 			]
 		},
-		
+
+
 		{
 			"name": "4K影视",
 			"source": [
@@ -9855,216 +10570,6 @@
 
 			]
 		},
-
-
-		{
-			"name": "NewTV家庭剧场",
-			"source": [
-				"http://223.110.243.167/PLTV/3/224/3221225549/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225549/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225549/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8",
-				"http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225549/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV古装剧场",
-			"source": [
-				"http://223.110.243.166/PLTV/3/224/3221225527/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225527/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225527/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV海外剧场",
-			"source": [
-				"http://223.110.243.162/PLTV/3/224/3221225547/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225547/index.m3u8",
-				"http://183.207.249.16/PLTV/3/224/3221225547/index.m3u8",
-				"http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225547/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV军旅剧场",
-			"source": [
-				"http://223.110.243.143/PLTV/3/224/3221225531/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225531/index.m3u8",
-				"http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV名星大片",
-			"source": [
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8",
-				"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8",
-				"http://223.110.243.149/PLTV/3/224/3221225535/.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV精品大剧",
-			"source": [
-				"http://223.110.243.163/PLTV/3/224/3221225569/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225569/index.m3u8",
-				"http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225569/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8"
-			]
-		},
-
-		{
-			"name": "NewTV精品电影",
-			"source": [
-				"http://223.110.243.141/PLTV/3/224/3221225567/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8",
-				"http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV爱情喜剧",
-			"source": [
-				"http://223.110.243.167/PLTV/3/224/3221225525/index.m3u8",
-				"http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV动作电影",
-			"source": [
-				"http://223.110.243.163/PLTV/3/224/3221225529/index.m3u8",
-				"http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225529/index.m3u8"
-			]
-		},
-
-		{
-			"name": "NewTV惊悚悬疑",
-			"source": [
-				"http://223.110.243.162/PLTV/3/224/3221225561/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225561/index.m3u8",
-				"http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221225561/index.m3u8",
-				"http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV金牌综艺",
-			"source": [
-				"http://223.110.243.162/PLTV/3/224/3221225559/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225559/index.m3u8",
-				"http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221225559/index.m3u8",
-				"http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV潮妈辣婆",
-			"source": [
-				"http://223.110.243.171/PLTV/3/224/3221226983/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226983/index.m3u8",
-				"http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV健康有约",
-			"source": [
-				"http://223.110.243.140/PLTV/3/224/3221225545/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225545/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225545/index.m3u8",
-				"http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225545/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV精品记录",
-			"source": [
-				"http://223.110.243.141/PLTV/3/224/3221225557/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225557/index.m3u8",
-				"http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225557/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV军事评论",
-			"source": [
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225533/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225533/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV农业致富",
-			"source": [
-				"http://223.110.243.151/PLTV/3/224/3221225537/index.m3u8",
-				"http://223.110.243.167/PLTV/3/224/3221225533/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225537/index.m3u8",
-				"http://183.207.249.14/PLTV/3/224/3221225537/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV中国功夫",
-			"source": [
-				"http://223.110.243.153/PLTV/3/224/3221226935/index.m3u8",
-				"http://223.110.245.171/PLTV/3/224/3221226935/index.m3u8",
-				"http://223.110.245.135/PLTV/3/224/3221226935/index.m3u8",
-				"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226935/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV搏击",
-			"source": [
-				"http://223.110.243.140/PLTV/3/224/3221226656/index.m3u8",
-				"http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226656/index.m3u8",
-				"http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV完美游戏",
-			"source": [
-				"http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV动画王国",
-			"source": [
-				"http://223.110.243.155/PLTV/3/224/3221225555/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8",
-				"http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8",
-				"http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV电竞",
-			"source": [
-				"http://223.110.243.143/PLTV/3/224/3221225539/index.m3u8"
-			]
-		},
-		{
-			"name": "NewTV精品体育",
-			"source": [
-				"http://223.110.243.162/PLTV/3/224/3221225543/index.m3u8",
-				"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225543/index.m3u8"
-			]
-		},
-		{
-			"name": "Best超级体育",
-			"source": [
-				"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8",
-				"http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8",
-				"http://223.110.243.170/PLTV/2/224/3221226797/index.m3u8",
-				"http://223.110.243.170/PLTV/2/224/3221226799/index.m3u8",
-				"http://223.110.243.170/PLTV/2/224/3221226801/index.m3u8",
-				"http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8",
-				"http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8",
-				"http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8",
-				"http://124.47.33.200/PLTV/88888888/224/3221225647/index.m3u8",
-				"http://124.47.33.200/PLTV/88888888/224/3221225648/index.m3u8",
-				"http://124.47.33.200/PLTV/88888888/224/3221225650/index.m3u8",
-				"http://124.47.33.200/PLTV/88888888/224/3221225651/index.m3u8",
-				"http://124.47.33.200/PLTV/88888888/224/3221225652/index.m3u8",
-				"http://124.47.33.200/PLTV/88888888/224/3221225653/index.m3u8",
-				"http://124.47.33.200/PLTV/88888888/224/3221225654/index.m3u8",
-				"http://124.47.33.200/PLTV/88888888/224/3221225655/index.m3u8",
-				"http://124.47.33.200/PLTV/88888888/224/3221225656/index.m3u8"
-			]
-		},
-
 		{
 			"name": "直播秀",
 			"source": [
